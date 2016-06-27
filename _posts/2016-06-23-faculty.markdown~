@@ -47,6 +47,7 @@ Frameworks listing on Wikipedia:
 https://en.wikipedia.org/wiki/Comparison\_of\_agent-based\_modeling\_software
 
 5. Other Potential Projects 
+
 Cognitive Architectures (SOAR) (http://sitemaker.umich.edu/soar/home)
 Formal Logics for programming languages
 Model Checking applications
@@ -82,7 +83,24 @@ Assistant Professor
 Assistant Professor
 
 
-[tyler-r]: ../../../r/tyler
+1) Communication in Wireless Sensor Networks (WSNs) with multiple sinks.
+
+Since the availability of sensor nodes, many communication protocols have been proposed. However, they are mainly developed for WSNs with a single sink. However, there are several reasons that 
+limit the usefulness of a single sink, for example, a) the emergence of more sophisticated applications and b) fault tolerance issues. In this research, we are working towards finding efficient communication 
+protocols for WSNs with multiple sinks. 
+
+2) Fault tolerant protocols (routing and MAC) in WSNs
+
+Due to limited resources such as memory and energy, harsh environmental conditions and buggy programs, sensor nodes may experience a number of different faults. 
+These faults can be classified as node failures and hardware faults, communication faults, and software faults. Some of these faults may cause non-deterministic bit-flips in the main memory and lead to memory corruptions. 
+Given this, the existing protocols that do not consider these faults may not work appropriately, if faults occur. In this research, we want to add fault tolerance 'wrapper' so that it makes protocols tolerant to the faults.
+
+3) Remote monitoring and control applications
+
+This is more about developing applications that use sensors, wireless devices such as sensors nodes, GPS, GPRS, WiF, etc. We could start this as soon as we get devices.
+
+
+
 [rizvi-r]: ../../../r/rizvi
 [lukac-r]: ../../../r/lukac
 [lewis-r]: ../../../r/lewis

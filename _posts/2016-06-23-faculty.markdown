@@ -83,7 +83,7 @@ Assistant Professor
 Assistant Professor
 
 
-[ommunication in Wireless Sensor Networks (WSNs) with multiple sinks.
+1) Communication in Wireless Sensor Networks (WSNs) with multiple sinks.
 
 Since the availability of sensor nodes, many communication protocols have been proposed. However, they are mainly developed for WSNs with a single sink. However, there are several reasons that 
 limit the usefulness of a single sink, for example, a) the emergence of more sophisticated applications and b) fault tolerance issues. In this research, we are working towards finding efficient communication 
@@ -101,10 +101,10 @@ This is more about developing applications that use sensors, wireless devices su
 
 
 
-[rizvi-r]: ../../../r/rizvi
-[lukac-r]: ../../../r/lukac
-[lewis-r]: ../../../r/lewis
-[sterling-r]: ../../../r/sterling
-[boranbayev-r]: ../../../r/boranbayev
-[kumalakov-r]: ../../../r/kumalakov
-[saginbekov-r]: ../../../r/saginbekov
+[rizvi-r]: ./
+[lukac-r]: ./
+[lewis-r]: ./
+[sterling-r]: ./
+[boranbayev-r]: ./
+[kumalakov-r]: ./
+[saginbekov-r]: ./
