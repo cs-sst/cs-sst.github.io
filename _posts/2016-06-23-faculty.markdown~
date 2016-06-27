@@ -1,32 +1,43 @@
 ---
-layout: post
+layout: page
 title:  "Faculty Members"
 date:   2016-06-23 20:52:19 +0600
 categories: research update
 ---
 We are only few with each faculty is specializing in a particular domain of research and interests. 
 
-Ben Tyler
-Associate Professor
+[Ben Tyler][tyler-r],
+Associate Professor,
 Acting Chair
 
-Mona Rizvi 
+[Mona Rizvi][rizvi-r],
 Associate Professor
 
-Martin Lukac
+[Martin Lukac][lukac-r],
 Associate Professor
 
-Mark Sterling 
+[Michael Lewis][lewis-r]
+Associate Professor,
+Vice-dean of Academic Affairs 
+
+[Mark Sterling][sterling-r], 
 Assistant Professor
 
-Bolatzhan Kumalakov
+[Askar Boranbayev][boranbayev-r]
+Assistant Professor
+
+[Bolatzhan Kumalakov][kumlakov-r],
 Asssitant Professor
 
-Sain Saginbekov
+[Sain Saginbekov][saginbekov-r],
 Assistant Professor
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[tyler-r]: http://jekyllrb.com/docs/home
+[rizvi-r]: http://jekyllrb.com/docs/home
+[lukac-r]: http://jekyllrb.com/docs/home
+[lewis-r]: http://jekyllrb.com/docs/home
+[sterling-r]: http://jekyllrb.com/docs/home
+[boranbayev-r]: http://jekyllrb.com/docs/home
+[kumalakov-r]: http://jekyllrb.com/docs/home
+[saginbekov-r]: http://jekyllrb.com/docs/home
