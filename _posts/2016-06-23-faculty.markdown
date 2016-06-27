@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research at CS"
+title:  "Faculty Members"
 date:   2016-06-23 20:52:19 +0600
 categories: research update
 ---
