@@ -4,7 +4,6 @@ title:  "Faculty Members"
 date:   2016-06-23 20:52:19 +0600
 categories: research update
 ---
-We are only few with each faculty is specializing in a particular domain of research and interests. 
 
 [Ben Tyler][tyler-r]
 Associate Professor,
@@ -33,11 +32,11 @@ Assistant Professor
 Assistant Professor
 
 
-[tyler-r]: http://jekyllrb.com/docs/home
-[rizvi-r]: http://jekyllrb.com/docs/home
-[lukac-r]: http://jekyllrb.com/docs/home
-[lewis-r]: http://jekyllrb.com/docs/home
-[sterling-r]: http://jekyllrb.com/docs/home
-[boranbayev-r]: http://jekyllrb.com/docs/home
-[kumalakov-r]: http://jekyllrb.com/docs/home
-[saginbekov-r]: http://jekyllrb.com/docs/home
+[tyler-r]: ../../../r/tyler
+[rizvi-r]: ../../../r/rizvi
+[lukac-r]: ../../../r/lukac
+[lewis-r]: ../../../r/lewis
+[sterling-r]: ../../../r/sterling
+[boranbayev-r]: ../../../r/boranbayev
+[kumalakov-r]: ../../../r/kumalakov
+[saginbekov-r]: ../../../r/saginbekov

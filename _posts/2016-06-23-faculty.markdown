@@ -32,11 +32,11 @@ Assistant Professor
 Assistant Professor
 
 
-[tyler-r]: ./r/tyler
-[rizvi-r]: ./r/rizvi
-[lukac-r]: ./r/lukac
-[lewis-r]: ./r/lewis
-[sterling-r]: ./r/sterling
-[boranbayev-r]: ./r/boranbayev
-[kumalakov-r]: ./r/kumalakov
-[saginbekov-r]: ./r/saginbekov
+[tyler-r]: ../../../r/tyler
+[rizvi-r]: ../../../r/rizvi
+[lukac-r]: ../../../r/lukac
+[lewis-r]: ../../../r/lewis
+[sterling-r]: ../../../r/sterling
+[boranbayev-r]: ../../../r/boranbayev
+[kumalakov-r]: ../../../r/kumalakov
+[saginbekov-r]: ../../../r/saginbekov
