@@ -9,7 +9,7 @@
 title: Research of the CS Department At NU
 email: first.last@nu.edu.kz
 description: > # this means to ignore newlines until "baseurl:"
-        This is the research websote for the CS dpeartment at the Nazarbayev University School  of Science and Engineering. It contains research portfolios and active research projects. 
+        This is the research website for the CS dpeartment at the Nazarbayev University School  of Science and Engineering. It contains research portfolios and active research projects. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
