@@ -11,9 +11,15 @@ We are only few with each faculty is specializing in a particular domain of rese
 The domains of active research includes but are not limited to:
 
 Mobile Computing 
+
 Wireless Sensor Networks
+
 Signal Processing
+
 Data Mining & Data Analytics
+
 Artificial Intelligence
+
 Computer Vision
+
 Quantum Computing
