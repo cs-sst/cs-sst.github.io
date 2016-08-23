@@ -6,6 +6,8 @@ permalink: /publications/
 
 <h1>2016</h1>
 
+Tyler B., Abdrakmanova M., Flipping the CS1 and CS2 Classrooms in Central Asia, IEEE/ASEE Frontiers in Education 2016, Accepted, 2016.
+
 Lukac M., Abdiyeva K., Kameyama M., Evaluation of Component Algorithms in an Algorithm Selection Approach to Semantic Segmentation Based on High-Level Information Feedback, Radio Electronics, Computer Science, Control, No. 1,  2016, pp. 92-100, DOI 10.15588/1607-3274-2016-1-11
 
 Madikenova G., Galimuratova A., Lukac M., Threat Detection in Episodic Images, Information and Digital Technologies, Accepted, 2016
