@@ -22,7 +22,7 @@ Aspect-Oriented Programming (related to the idea of reflection, though used for 
 
 2. Design Pattern Languages - Part of my Ph.D work was in this area, where we tried to formally specify design patterns, and then use these specifications to generate monitoring code that could be used for detecting specification violations.  The main questions we looked at were:<br/>
 a) Can we provide precise specifications about what a particular Design Pattern does?<br/>
-b) Can we statically check or dynamically test if a system properly implements a Design Pattern?<br/> 
+b) Can we statically check or dynamically test if a system properly implements a Design Pattern?<br/>
 c) How do we tie together a general description of a Design Pattern, and how it is realized in a specific system?<br/>
 I haven't looked at this work in a while, but I think it still may bear some fruit (e.g., conference papers.)  Some links for consideration:<br/>
 
@@ -96,7 +96,7 @@ Quantum Computing: the design of quantum circuits in various quantum models such
 {% include image.html url="/images/lewis.jpg" align="right" %}
 
 Associate Professor,
-Vice-dean of Academic Affairs 
+Vice-dean of Academic Affairs
 
 </div>
 </div>
@@ -108,6 +108,8 @@ Vice-dean of Academic Affairs
 {% include image.html url="/images/sterling.jpg" align="right" %}
 
 Assistant Professor
+
+My research interests include: biomedical signal processing and signal processing for audio and music, theory of analog-to-digital conversion, presheaves and lattice valued logics, and data-driven mobile application development.  I am also currently investigating ways to build algebraic models for abstraction and compositional structures.  
 
 </div>
 </div>
