@@ -23,3 +23,7 @@ Lukac M.,  Mandilara A., Quantum algorithmic Complexity of three-qubit pure stat
 Lukac M.,  Quantum Computing: simulating physics with quantum genetic algorithm, , Workshop on New Frontier Information Digital Technology, University of Rykyus, Okinawa, Jan. 23-24, 2016
 
 Lukac M.,  Real-World Image Processing: how does meta learning improves the image understanding?,  , Workshop on New Frontier Information Digital Technology, University of Rykyus, Okinawa, Jan. 23-24, 2016
+
+<h1>2015</h1>
+
+Rhee, H., Belyea, M.J., Sterling, M. and Bocko, M.F., 2015. Evaluating the Validity of an Automated Device for Asthma Monitoring for Adolescents: Correlational Design. Journal of medical Internet research, 17(10).
