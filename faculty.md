@@ -86,6 +86,19 @@ Computer Vision: Image Understanding by combining reasoning and current state of
 
 Quantum Computing: the design of quantum circuits in various quantum models such as CV/CNOT, Clifford-T, CH/CZ. I am also interested in quantum faults and in the realization of seuqnetial quantum devices such as Finite State Machines. 
 
+Projects available for research in various forms:
+
+- Variable Sifting in Reversible and Quantum Circuits (with extensions into minimization of Boolean Decision Diagrams)
+- Quantum Operator Forms for exact circuits minimization
+- Clifford-T synthesis of quantum circuits
+- Elementary particle sumulator on GPGPU
+
+- CNNs for Autonomous software Selection Platform
+- High level Semantic Content Verification
+- Background Estimation form partial recognition
+- Motion Enabled Image Processing
+- Self-Growing Neural Networks for Problem Complexity Analysis
+
 </div>
 </div>
 
