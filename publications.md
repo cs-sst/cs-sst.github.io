@@ -35,3 +35,19 @@ Zhanbyrtayev M., Kassenov B., A Novel Approach to Mobile Indoor Navigation Syste
 Rhee, H., Belyea, M.J., Sterling, M. and Bocko, M.F., 2015. Evaluating the Validity of an Automated Device for Asthma Monitoring for Adolescents: Correlational Design. Journal of medical Internet research, 17(10).
 
 Shellington W., Rizvi M., Humphries T., Morsi R., “Syntax Circuitry: A Mobile Game for Practicing Programming Syntax”, Frontiers in Education 2015, El Paso, TX, USA, Oct 2015.
+
+Lukac M., Kameyama M., Bayesian-Network-Based Algorithm Selection with High Level Representation Feedback for Real-World Information Processing, IT in Industry, Vol. 3, Issue. 1, pp.10-15, May 2015
+
+Lukac M., Kameyama M., An Algorithm Selection based Platform for Image Understanding using High-Level Symbolic Feedback and Machine Learning, International Journal of Machine Learning and Cybernetics (Springer), Vol. 6, Issue. 3, June 2015, pp. 417-434 
+
+Lukac M., , Features, Attributes, Objects and Scene Understanding , International workshop on Emerging Technologies of Microelectronics and Their Application to IoT Paradigm, http://www.ngc.riec.tohoku.ac.jp/WSHAWAII/, 2015
+
+Lukac M., Abdiyeva K., Fujioka Y., Kameyama K.,, Algorithm Selection Platform in Real-World Intelligent Systems , 28th International Conference on Computer Applications in Industry and Engineering, CAINE 2015
+
+Lukac M., Abdiyeva K., Kameyama K.,On Evaluation of Algoritm Selection Approach for Semantic Segmentation Based on High-Level Information Feedback, Information and Digital Technologies (IEEE), 2015
+
+Lukac M., Abdiyeva K., Kameyama K.,Symbolic Segmentation Using Algorithm Selection and Semantic Feedback, SUNw Workshop (organized in conjunction with CVPR), online, URL: http://sunw.csail.mit.edu/2015/posters.html, 2015
+
+Lukac M., Principles of Clifford-T synthesis of Quantum Circuits, EMN Meeting, 2015, invited talk 
+
+Lukac M., Kameyama M., Perkowski M., Kerntopf P., Moraga C., Fault Models in Reversible and Quantum Circuits, in Advances in Unconventional Computing, Adamtazky, A. eds., Volume 22 of Emergence, Complexity and Computation, pp. 475-493, Springer, 2016 
