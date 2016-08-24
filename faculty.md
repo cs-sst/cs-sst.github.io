@@ -165,7 +165,7 @@ Given this, the existing protocols that do not consider these faults may not wor
 
 3) Remote monitoring and control applications<br/>
 
-This is more about developing applications that use sensors, wireless devices such as sensors nodes, GPS, GPRS, WiF, etc. We could start this as soon as we get devices.<br/>
+This is more about developing applications that use sensors, wireless devices such as sensors nodes, GPS, GPRS, WiF, etc.<br/>
 
 </div>
 </div>
