@@ -4,7 +4,7 @@ title: Faculty Members
 permalink: /faculty/
 ---
 
-[Ben Tayler](/faculty/tyler)
+[Ben Tyler](/faculty/tyler)
 
 [Mona Rizvi](/faculty/rizvi) 
 
