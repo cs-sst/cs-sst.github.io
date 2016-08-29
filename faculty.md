@@ -76,7 +76,7 @@ Associate Professor
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/lukac.jpg" align="right" %}
 
-[/faculty/lukac](Martin Lukac) 
+[Martin Lukac](/faculty/lukac) 
 
 Associate Professor
 
