@@ -3,9 +3,10 @@ layout: page
 title: Faculty Members
 permalink: /faculty/
 ---
-[Ben Tayler](/faculty/tayler) 
 
 [Mona Rizvi](/faculty/rizvi) 
+
+[Ben Tayler](/faculty/tayler) 
 
 [Martin Lukac](/faculty/lukac) 
 
