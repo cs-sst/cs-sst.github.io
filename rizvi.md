@@ -1,3 +1,9 @@
+---
+layout: page
+title: Faculty Members
+permalink: /faculty/rizvi
+---
+
 <div class="container" markdown="1">
 <div class="header" markdown="1">Mona Rizvi [+]
 </div>
