@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Faculty Members
-permalink: /faculty/lukac
+permalink: /faculty/sterling
 ---
 
 
