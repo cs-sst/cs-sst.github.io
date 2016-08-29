@@ -4,9 +4,9 @@ title: Faculty Members
 permalink: /faculty/
 ---
 
-[Mona Rizvi](/faculty/rizvi) 
+[Ben Tayler](/faculty/tyler)
 
-[Ben Tayler](/faculty/tayler) 
+[Mona Rizvi](/faculty/rizvi) 
 
 [Martin Lukac](/faculty/lukac) 
 
