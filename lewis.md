@@ -1,3 +1,8 @@
+---
+layout: page
+title: Faculty Members
+permalink: /faculty/lewis
+---
 
 <div class="container" markdown="1">
 <div class="header" markdown="1">Michael Lewis [+]
