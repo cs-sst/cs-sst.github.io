@@ -4,6 +4,7 @@ title: Faculty Members
 permalink: /faculty/tyler
 ---
 
+
 <div class="container" markdown="1">
 <div class="header" markdown="1">Ben Tyler [+]
 </div>
