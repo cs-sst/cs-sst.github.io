@@ -76,6 +76,8 @@ Associate Professor
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/lukac.jpg" align="right" %}
 
+href: "/faculty/lukac"
+
 Associate Professor
 
 My research area is Computer Vision using Artificial Intelligence such as reasoning ad verification, decision making, bio-physical processing. My secondary interests are in Quantum Logic Synthesis, Quantum finite State Machines and Quantum Decision Making and Quantum Computing used as simulation for Artificial Emotions. 
