@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <h1>2016</h1>
-Saginbekov S., Shakenov C. Hybrid Simulators for Wireless Sensor Networks with Multiple Sinks. IEEE International Conference on Wireless Sensors, Accepted, 2016.
+Saginbekov S., Shakenov C. Hybrid Simulators for Wireless Sensor Networks. IEEE International Conference on Wireless Sensors, Accepted, 2016.
 
 Saginbekov S., Jhumka A., Shakenov C. Towards Energy-efficient Collision-free Data Aggregation Scheduling in Wireless Sensor Networks with Multiple Sinks. 5th International Conference on Sensor Networks (SENSORNETS 2016), 2016.
 
