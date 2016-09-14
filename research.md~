@@ -4,7 +4,7 @@ title: Research at CS
 permalink: /research/
 ---
 
-{% include image.html url="/images/maxres.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/maxres.png" width=300 align="right" %}
 
 We are only few with each faculty is specializing in a particular domain of research and interests.
 
