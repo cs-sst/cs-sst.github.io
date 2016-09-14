@@ -4,9 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-MArtin attending International Workshop on Boolean Problems in September. 
-
-Mona had a nice experience this summer in .....
+Tell us about your blog. Hopefully it's cool.
 
 <ul class="listing">
 {% for post in site.posts %}
