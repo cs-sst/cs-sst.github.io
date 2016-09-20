@@ -4,10 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-MArtin attending International Workshop on Boolean Problems in September. 
-
-Mona had a nice experience this summer in .....
-
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
