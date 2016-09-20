@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <h1>2016</h1>
+Sterling M., A Linear Dependence Based Construction Related to Costas Arrays, 2016 International Conference on Communication and Information Systems (ICCIS 2016), ICPS by ACM, Accepted, 2016.
+
 Saginbekov S., Shakenov C. Hybrid Simulators for Wireless Sensor Networks. IEEE International Conference on Wireless Sensors, Accepted, 2016.
 
 Saginbekov S., Jhumka A., Shakenov C. Towards Energy-efficient Collision-free Data Aggregation Scheduling in Wireless Sensor Networks with Multiple Sinks. 5th International Conference on Sensor Networks (SENSORNETS 2016), 2016.
@@ -41,7 +43,7 @@ Shellington W., Rizvi M., Humphries T., Morsi R., “Syntax Circuitry: A Mobile 
 
 Lukac M., Kameyama M., Bayesian-Network-Based Algorithm Selection with High Level Representation Feedback for Real-World Information Processing, IT in Industry, Vol. 3, Issue. 1, pp.10-15, May 2015
 
-Lukac M., Kameyama M., An Algorithm Selection based Platform for Image Understanding using High-Level Symbolic Feedback and Machine Learning, International Journal of Machine Learning and Cybernetics (Springer), Vol. 6, Issue. 3, June 2015, pp. 417-434 
+Lukac M., Kameyama M., An Algorithm Selection based Platform for Image Understanding using High-Level Symbolic Feedback and Machine Learning, International Journal of Machine Learning and Cybernetics (Springer), Vol. 6, Issue. 3, June 2015, pp. 417-434
 
 Lukac M., , Features, Attributes, Objects and Scene Understanding , International workshop on Emerging Technologies of Microelectronics and Their Application to IoT Paradigm, http://www.ngc.riec.tohoku.ac.jp/WSHAWAII/, 2015
 
@@ -51,6 +53,6 @@ Lukac M., Abdiyeva K., Kameyama K.,On Evaluation of Algoritm Selection Approach 
 
 Lukac M., Abdiyeva K., Kameyama K.,Symbolic Segmentation Using Algorithm Selection and Semantic Feedback, SUNw Workshop (organized in conjunction with CVPR), online, URL: http://sunw.csail.mit.edu/2015/posters.html, 2015
 
-Lukac M., Principles of Clifford-T synthesis of Quantum Circuits, EMN Meeting, 2015, invited talk 
+Lukac M., Principles of Clifford-T synthesis of Quantum Circuits, EMN Meeting, 2015, invited talk
 
-Lukac M., Kameyama M., Perkowski M., Kerntopf P., Moraga C., Fault Models in Reversible and Quantum Circuits, in Advances in Unconventional Computing, Adamtazky, A. eds., Volume 22 of Emergence, Complexity and Computation, pp. 475-493, Springer, 2016 
+Lukac M., Kameyama M., Perkowski M., Kerntopf P., Moraga C., Fault Models in Reversible and Quantum Circuits, in Advances in Unconventional Computing, Adamtazky, A. eds., Volume 22 of Emergence, Complexity and Computation, pp. 475-493, Springer, 2016
