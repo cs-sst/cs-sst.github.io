@@ -6,11 +6,11 @@ permalink: /research/
 
 {% include image.html url="/images/maxres.png" width=300 align="right" %}
 
-We are only few with each faculty is specializing in a particular domain of research and interests.
+The research specializations of our faculty cover a wide range of topics within computer science.  
 
-The domains of active research includes but are not limited to:
+The domains of active research include but are not limited to:
 
-- Mobile Computing 
+- Mobile Computing
 - Wireless Sensor Networks
 - Signal Processing
 - Data Mining & Data Analytics
@@ -20,7 +20,7 @@ The domains of active research includes but are not limited to:
 - Computer Vision
 - Quantum Computing
 
-Several existing research groups exists in order to group and accelerate research in combined areas:
+Several existing research groups exist in order to group and accelerate research in combined areas:
 
 - Research in Education
 - Mobile and HRI/HCI
