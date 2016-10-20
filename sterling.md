@@ -9,7 +9,7 @@ permalink: /faculty/sterling
 <div class="header" markdown="1">Mark Sterling [+]
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
-{% include image.html url="/images/sterling.jpg" align="right" %}
+{% include image.html url="/images/portrait_sterling.jpg" align="right" %}
 
 Assistant Professor
 
