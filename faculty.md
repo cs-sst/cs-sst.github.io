@@ -10,6 +10,8 @@ permalink: /faculty/
 
 [Martin Lukac](/faculty/lukac) 
 
+[Anotnio Cerone](/faculty/cerone) 
+
 [Michael Lewis](/faculty/lewis) 
 
 [Mark Sterling](/faculty/sterling) 
