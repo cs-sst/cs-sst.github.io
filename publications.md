@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 <h1>2016</h1>
+Cerone A., Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives, Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM), Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
+
+Cerone A., Refinement Mining: Using Data to Sift Plausible Models, Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: DataMod), Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 26-41.
+
 Sterling M., A Linear Dependence Based Construction Related to Costas Arrays, 2016 International Conference on Communication and Information Systems (ICCIS 2016), ICPS by ACM, Accepted, 2016.
 
 Saginbekov S., Shakenov C. Hybrid Simulators for Wireless Sensor Networks. IEEE International Conference on Wireless Sensors, Accepted, 2016.
