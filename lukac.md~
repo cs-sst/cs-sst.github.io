@@ -33,6 +33,6 @@ Projects available for research in various forms:
 - Motion Enabled Image Processing
 - Self-Growing Neural Networks for Problem Complexity Analysis
 
-You can find more on y research and active projects on [my website](https://mechanoids.blackhole.sk) 
+You can find more on y research and active projects on [my website](http://mechanoids.blackhole.sk) 
 </div>
 </div>

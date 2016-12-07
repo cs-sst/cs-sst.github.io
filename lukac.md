@@ -26,9 +26,10 @@ Projects available for research in various forms:
 - Quantum Operator Forms for exact circuits minimization
 - Clifford-T synthesis of quantum circuits
 - Elementary particle sumulator on GPGPU
+- Evolutionary and Algorithmic Synthesis and Optimization  of Quantum Circuits
 
 - CNNs for Autonomous software Selection Platform
-- High level Semantic Content Verification
+- High level Semantic Content Verification 
 - Background Estimation form partial recognition
 - Motion Enabled Image Processing
 - Self-Growing Neural Networks for Problem Complexity Analysis
