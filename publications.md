@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+<h1>2017</h1>
+Saginbekov S., Jhumka A., Mademikhanov Y., A Lower Bound on the Number of Nodes with Multiple Slots in Wireless Sensor Networks with Multiple Sinks, 6th International Conference on Sensor Networks (SENSORNETS 2017), Accepted, 2017.
+
 <h1>2016</h1>
 Cerone A., Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives, Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM), Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
 
@@ -11,9 +14,9 @@ Cerone A., Refinement Mining: Using Data to Sift Plausible Models, Software Tech
 
 Sterling M., A Linear Dependence Based Construction Related to Costas Arrays, 2016 International Conference on Communication and Information Systems (ICCIS 2016), ICPS by ACM, Accepted, 2016.
 
-Saginbekov S., Shakenov C. Hybrid Simulators for Wireless Sensor Networks. IEEE International Conference on Wireless Sensors, Accepted, 2016.
+Saginbekov S., Shakenov C., Hybrid Simulators for Wireless Sensor Networks. IEEE International Conference on Wireless Sensors,  2016.
 
-Saginbekov S., Jhumka A., Shakenov C. Towards Energy-efficient Collision-free Data Aggregation Scheduling in Wireless Sensor Networks with Multiple Sinks. 5th International Conference on Sensor Networks (SENSORNETS 2016), 2016.
+Saginbekov S., Jhumka A., Shakenov C., Towards Energy-efficient Collision-free Data Aggregation Scheduling in Wireless Sensor Networks with Multiple Sinks. 5th International Conference on Sensor Networks (SENSORNETS 2016), 2016.
 
 Rizvi M., Toleuov A., Khaitov D., Baitursinov S., A General Extensible Framework for Mobile Location-based Information Systems, 10th IEEE International Conference on Application of Information and Communication Technologies, Accepted, 2016.
 
