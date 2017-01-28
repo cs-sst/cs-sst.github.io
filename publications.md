@@ -14,7 +14,7 @@ Cerone A., Human-Oriented Formal Modelling of Human-Computer Interaction: Practi
 
 Cerone A., Refinement Mining: Using Data to Sift Plausible Models, Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: DataMod), Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 26-41.
 
-Sterling, Mark. "A Linear Dependence Based Construction Related to Costas Arrays." In Proceedings of the 2016 International Conference on Communication and Information Systems, pp. 21-24. ACM, 2016.
+Sterling, Mark. "A Linear Dependence Based Construction Related to Costas Arrays." In Proceedings of the 2016 International Conference on Communication and Information Systems, pp. 21-24. ACM, Dec 2016.
 
 Saginbekov S., Shakenov C., Hybrid Simulators for Wireless Sensor Networks. IEEE International Conference on Wireless Sensors,  2016.
 
