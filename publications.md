@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <h1>2017</h1>
+Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017 
+
 Lukac M., Abdiyeva K., Kim A., Kameyama M., Reasoning and Algorithm Selection Augmented Symbolic Segmentation, IEEE Technically Sponsored Intelligent Systems Conference (IntelliSys), Accepted, 2017.
 
 Saginbekov S., Jhumka A., Mademikhanov Y., A Lower Bound on the Number of Nodes with Multiple Slots in Wireless Sensor Networks with Multiple Sinks, 6th International Conference on Sensor Networks (SENSORNETS 2017), Accepted, 2017.
