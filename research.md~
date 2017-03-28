@@ -6,20 +6,27 @@ permalink: /research/
 
 {% include image.html url="/images/maxres.png" width=300 align="right" %}
 
-We are only few with each faculty is specializing in a particular domain of research and interests.
+The research specializations of our faculty cover a wide range of topics within computer science.  
 
-The domains of active research includes but are not limited to:
+The domains of active research include but are not limited to:
 
-Mobile Computing 
+- Mobile Computing
+- Wireless Sensor Networks
+- Signal Processing
+- Data Mining & Data Analytics
+- Research in Education
+- HPC and GPGPU computing
+- Artificial Intelligence
+- Computer Vision
+- Quantum Computing
 
-Wireless Sensor Networks
+Several existing research groups exist in order to group and accelerate research in combined areas:
 
-Signal Processing
+- Research in Education
+- Mobile and HRI/HCI
 
-Data Mining & Data Analytics
+Student inclusive research programs and possibilities:
 
-Artificial Intelligence
+- [Directed Studies] (/research/ds)
+- [Internships] (/research/int)
 
-Computer Vision
-
-Quantum Computing

@@ -24,3 +24,9 @@ Several existing research groups exist in order to group and accelerate research
 
 - Research in Education
 - Mobile and HRI/HCI
+
+Student inclusive research programs and possibilities:
+
+- [Directed Studies] (/research/ds)
+- [Internships] (/research/int)
+
