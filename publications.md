@@ -5,11 +5,13 @@ permalink: /publications/
 ---
 
 <h1>2017</h1>
+Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, Elsevier, Accepted.
+
 Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017 
 
 Lukac M., Abdiyeva K., Kim A., Kameyama M., Reasoning and Algorithm Selection Augmented Symbolic Segmentation, IEEE Technically Sponsored Intelligent Systems Conference (IntelliSys), Accepted, 2017.
 
-Saginbekov S., Jhumka A., Mademikhanov Y., A Lower Bound on the Number of Nodes with Multiple Slots in Wireless Sensor Networks with Multiple Sinks, 6th International Conference on Sensor Networks (SENSORNETS 2017), Accepted, 2017.
+Saginbekov S., Jhumka A., Mademikhanov Y., A Lower Bound on the Number of Nodes with Multiple Slots in Wireless Sensor Networks with Multiple Sinks, 6th International Conference on Sensor Networks (SENSORNETS 2017), 2017.
 
 <h1>2016</h1>
 Cerone A., Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives, Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM), Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
@@ -20,7 +22,7 @@ Sterling, Mark. "A Linear Dependence Based Construction Related to Costas Arrays
 
 Saginbekov S., Shakenov C., Hybrid Simulators for Wireless Sensor Networks. IEEE International Conference on Wireless Sensors,  2016.
 
-Saginbekov S., Jhumka A., Shakenov C., Towards Energy-efficient Collision-free Data Aggregation Scheduling in Wireless Sensor Networks with Multiple Sinks. 5th International Conference on Sensor Networks (SENSORNETS 2016), 2016.
+Saginbekov S., Jhumka A., Shakenov C., Towards Energy-efficient Collision-free Data Aggregation Scheduling in Wireless Sensor Networks with Multiple Sinks. 5th International Conference on Sensor Networks (SENSORNETS 2016), 2016. Best Paper candidate.
 
 Rizvi M., Toleuov A., Khaitov D., Baitursinov S., A General Extensible Framework for Mobile Location-based Information Systems, 10th IEEE International Conference on Application of Information and Communication Technologies, Accepted, 2016.
 
