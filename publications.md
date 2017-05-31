@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 <h1>2017</h1>
+Lukac M., Kameyama M., Migranova Y., Live-Feeling Communication: Multi-Algorithm Approach to
+the Estimation of Human Intentions, IEEE SMC, Accepted, 2017.
+
 Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, Elsevier, In Press.
 
 Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017 
