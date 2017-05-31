@@ -29,4 +29,5 @@ Student inclusive research programs and possibilities:
 
 - [Directed Studies](/research/ds)
 - [Internships](/research/int)
+- [Students' Hall of Science](/research/stu)
 
