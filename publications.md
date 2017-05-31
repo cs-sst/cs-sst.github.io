@@ -5,8 +5,11 @@ permalink: /publications/
 ---
 
 <h1>2017</h1>
-Lukac M., Kameyama M., Migranova Y., Live-Feeling Communication: Multi-Algorithm Approach to
-the Estimation of Human Intentions, IEEE SMC, Accepted, 2017.
+Lukac M., Bazarbayeva A., Kameyama M., Context Based Visual Content Verification, IDT (IEEE technically sponsored), (Accepted),  2017
+
+Lukac M., Kerntopf P., Kameyama M., An Analytic Sifting Approach to Optimization of  LNN Reversible Circuits, IDT (IEEE technically sponsored), (Accepted),  2017
+
+Lukac M., Kameyama M., Migranova Y., Live-Feeling Communication: Multi-Algorithm Approach to the Estimation of Human Intentions, IEEE SMC, Accepted, 2017.
 
 Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, Elsevier, In Press.
 
