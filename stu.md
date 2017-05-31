@@ -7,20 +7,20 @@ Here students with published results or students who assisted in a work that got
 
 --- 2017 ---
 
-Bazarbayeva Aigerim
-Krylov Gerogiy
-Migranova Yevgeniya
+- Bazarbayeva Aigerim
+- Krylov Gerogiy
+- Migranova Yevgeniya
 
 --- 2016 ---
 
-Galimuratova Aisulu
-Kim Alexandra
-Krylov Gerogiy
-Madikenova Gaukhar
-Ospanova Aizhan
-Oteniyaz Gaziza
-Zhurtanov Almas
+- Galimuratova Aisulu
+- Kim Alexandra
+- Krylov Gerogiy
+- Madikenova Gaukhar
+- Ospanova Aizhan
+- Oteniyaz Gaziza
+- Zhurtanov Almas
 
 --- 2015 ---
 
-Abdibayeva Kamila
+- Abdibayeva Kamila
