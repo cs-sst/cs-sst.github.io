@@ -10,6 +10,7 @@ Here students with published results or students who assisted in a work that got
 - Bazarbayeva Aigerim
 - Krylov Gerogiy
 - Migranova Yevgeniya
+- Mademikhanov Yerzhan
 
 --- 2016 ---
 
