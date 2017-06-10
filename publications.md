@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <h1>2017</h1>
+Fujioka Y., Kameyama K., Lukac M.,, A Dynamically Reconfigurable VLSI Processor with Hierarchical Structure based on a Micropacket Transfer Scheme, IDT (IEEE technically sponsored), (Accepted), 2017 
+
 Lukac M., Bazarbayeva A., Kameyama M., Context Based Visual Content Verification, IDT (IEEE technically sponsored), (Accepted),  2017
 
 Lukac M., Kerntopf P., Kameyama M., An Analytic Sifting Approach to Optimization of  LNN Reversible Circuits, IDT (IEEE technically sponsored), (Accepted),  2017
