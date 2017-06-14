@@ -1,1 +1,1 @@
-Data-deiven Formal Modelling and Verification
+Data-driven Formal Modelling and Verification
