@@ -3,4 +3,4 @@ layout: page
 title: Data-driven Formal Modelling and Verification
 permalink: /faculty/cerone/modellingfromdata
 ---
-- Download [FormalMiner](/faculty/formalminer.zip) 
+- Download [FormalMiner](formalminer.zip) 
