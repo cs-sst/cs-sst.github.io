@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Data-driven Formal Modelling and Verification
-permalink: /faculty/cerone/modellingfromdata.md
+permalink: /faculty/cerone/modellingfromdata
 ---
 
