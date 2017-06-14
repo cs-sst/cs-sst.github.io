@@ -1,2 +1,0 @@
-
-Antonio Cerone's Research
