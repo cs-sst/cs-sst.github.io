@@ -24,7 +24,7 @@ Further research areas include: cognitive science, process mining and conformanc
 
 Cerone A., <B>Model Mining - Integrating Data Analytics, Modelling and Verification</B>, <I>Journal of Intelligent Information Systems</I>, Springer, 2017, In press.
 
-Cerone A., <B>An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities</B>, <I>Education and Information Technologies</I>, Springer, 2017, Online, DOI: 10.1007/s10639-017-9573-6.
+Mukala P., Cerone A. and Turini F., <B>An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities</B>, <I>Education and Information Technologies</I>, Springer, 2017, Online, DOI: 10.1007/s10639-017-9573-6.
 
 Cerone A., <B>Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives</B>, <I>Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM)</I>, Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
 
