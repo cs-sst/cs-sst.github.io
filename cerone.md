@@ -20,5 +20,8 @@ Further research areas include: cognitive science, process mining and conformanc
 
 - [Data-driven Formal Modelling and Verification](/faculty/cerone/modellingfromdata)
 
+<B>Recent Publications:</B>
+
+
 </div>
 </div>
