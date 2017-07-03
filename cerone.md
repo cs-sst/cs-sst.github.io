@@ -22,9 +22,9 @@ Further research areas include: cognitive science, process mining and conformanc
 
 <B>Recent Publications:</B>
 
-Cerone A., Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives, Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM), Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
+Cerone A., <B>Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives</B>, <I>Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM)</I>, Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
 
-Cerone A., Refinement Mining: Using Data to Sift Plausible Models, Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: DataMod), Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 26-41.
+Cerone A., <B>Refinement Mining: Using Data to Sift Plausible Models</B>, <I>Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: DataMod)</I>, Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 26-41.
 
 </div>
 </div>
