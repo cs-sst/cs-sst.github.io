@@ -16,7 +16,7 @@ Antonio Cerone obtained his Masters Degree in Information Science in 1989 and hi
 Antonio’s research interests focus on the use of formal methods in various application domains: software engineering, human computer interaction, systems biology and ecology.
 Further research areas include: cognitive science, process mining and conformance analysis, analysis of Free/Libre Open Source Software (FLOSS) communities and development, collaborative learning.
 
-Research Areas:
+<B>Research Areas:</B>
 
 - [Data-driven Formal Modelling and Verification](/faculty/cerone/modellingfromdata)
 
