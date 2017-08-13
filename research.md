@@ -27,7 +27,6 @@ Several existing research groups exist in order to group and accelerate research
 
 Student inclusive research programs and possibilities:
 
-- [Directed Studies](/research/ds)
-- [Internships](/research/int)
+- [Research for/with Students](/research/sresearch)
 - [Students' Hall of Science](/research/stu)
 
