@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yevgeniya's Paper Presented at IEEE SMC"
-date:   2017-9-4 12:00:00
+date:   2017-10-7 12:00:00
 categories: fun
 ---
 
