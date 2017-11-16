@@ -18,8 +18,6 @@ permalink: /faculty/
 
 [Askar Boranbayev](/faculty/boranbayev) 
 
-[Bolatzhan Kumalakov](/faculty/kumalakov)
-
 [Sain Saginbekov](/faculty/saginbekov)
 
 

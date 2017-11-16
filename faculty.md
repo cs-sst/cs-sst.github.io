@@ -20,9 +20,9 @@ permalink: /faculty/
 
 [Sain Saginbekov](/faculty/saginbekov)
 
+[Hans de Nivelle](/faculty/nivelle)
 
-
-
+[Dirk Lehmann](/faculty/lehmann)
 
 
 <style>
