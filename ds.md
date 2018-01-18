@@ -12,3 +12,5 @@ DS can be taken up to two times starting with the 3rd year of undergraduate stud
 
 A student willing to undertake DS must have an adviser from Computer Science and it must be on a topic in computer science. 
 
+
+- [Directed Studies Form](/miscellany/ds.docx)
