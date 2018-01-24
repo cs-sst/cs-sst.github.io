@@ -5,7 +5,6 @@ permalink: /publications/
 ---
 
 <h1>2017</h1>
-
 Cerone A., Model Mining - Integrating Data Analytics, Modelling and Verification, Journal of Intelligent Information Systems, Springer, 2017, Online First, DOI: 10.1007/s10844-017-0474-3
 
 Mukala P., Cerone A. and Turini F., An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities, Education and Information Technologies 22(6): 3207-3229 (2017), Springer, DOI: 10.1007/s10639-017-9573-6.
