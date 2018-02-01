@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+<h1>2018</h1>
+Lukac M., Abdiyeva K., Kameyama M., CNOT-Measure Quantum Neural Networks, IEEE ISMVL 2018, accepted, 2018
+
 <h1>2017</h1>
 Cerone A., Model Mining - Integrating Data Analytics, Modelling and Verification, Journal of Intelligent Information Systems, Springer, 2017, Online First, DOI: 10.1007/s10844-017-0474-3.
 
