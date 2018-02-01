@@ -4,6 +4,8 @@ title: Faculty Members
 permalink: /faculty/
 ---
 
+[Adnan Yazici](/faculty/yazici)
+
 [Ben Tyler](/faculty/tyler)
 
 [Mona Rizvi](/faculty/rizvi) 
