@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <h1>2018</h1>
+G. Yestemirova and S. Saginbekov, Efficient Data Aggregation in Wireless Sensor Networks with Multiple Sinks, The 32-nd IEEE International Conference on Advanced Information Networking and Applications (AINA-2018), Accepted 2018.
+
 Lukac M., Abdiyeva K., Kameyama M., CNOT-Measure Quantum Neural Networks, IEEE ISMVL 2018, accepted, 2018
 
 <h1>2017</h1>
@@ -20,7 +22,7 @@ Lukac M., Kerntopf P., Kameyama M., An Analytic Sifting Approach to Optimization
 
 Lukac M., Kameyama M., Migranova Y., Live-Feeling Communication: Multi-Algorithm Approach to the Estimation of Human Intentions, IEEE SMC, Accepted, 2017.
 
-Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, Elsevier, In Press.
+Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, 123: 184-199, Elsevier, 2017
 
 Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017 
 
