@@ -23,7 +23,11 @@ SOME of RESEARCH PROJECTS
 
 "An Efﬁcient Data Aggregation Approach for Multi-Hop Wireless Sensor Networks," supported by Nazarbayev University.
 
-"Design and Development of a Fusion-Based Framework for Surveillance Applications in Wireless Multimedia Sensor Networks", supported by TUBITAK.
+"Location-based control and management system for safety warning and emergency rescuing services using LTE D2D technology," 
+supported by Newton Fund / BC Institutional Links Program.
+
+"Design and Development of a Fusion-Based Framework for Surveillance Applications in Wireless Multimedia Sensor Networks", 
+supported by TUBITAK.
 
 "Semantic Content Extraction, Storage and Querying of Visual, Audio, and Text Data in Videos", supported by TUBITAK.
 
