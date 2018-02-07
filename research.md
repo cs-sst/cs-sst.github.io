@@ -19,6 +19,9 @@ The domains of active research include but are not limited to:
 - Artificial Intelligence
 - Computer Vision
 - Quantum Computing
+- Multimedia Database Modeling
+- Fuzzy Logic and Modeling
+- Data Science
 
 Several existing research groups exist in order to group and accelerate research in combined areas:
 
