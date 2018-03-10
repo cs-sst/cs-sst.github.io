@@ -14,7 +14,9 @@ Cerone A., Model Mining - Integrating Data Analytics, Modelling and Verification
 
 Mukala P., Cerone A. and Turini F., An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities, Education and Information Technologies 22(6): 3207-3229 (2017), Springer, DOI: 10.1007/s10639-017-9573-6.
 
-Fujioka Y., Kameyama K., Lukac M.,, A Dynamically Reconfigurable VLSI Processor with Hierarchical Structure based on a Micropacket Transfer Scheme, IDT (IEEE technically sponsored), (Accepted), 2017 
+M. Sterling, "Situated big data and big data analytics for healthcare," 2017 IEEE Global Humanitarian Technology Conference (GHTC), San Jose, CA, 2017, doi: 10.1109/GHTC.2017.8239322
+
+Fujioka Y., Kameyama K., Lukac M.,, A Dynamically Reconfigurable VLSI Processor with Hierarchical Structure based on a Micropacket Transfer Scheme, IDT (IEEE technically sponsored), (Accepted), 2017
 
 Lukac M., Bazarbayeva A., Kameyama M., Context Based Visual Content Verification, IDT (IEEE technically sponsored), (Accepted),  2017
 
@@ -24,7 +26,7 @@ Lukac M., Kameyama M., Migranova Y., Live-Feeling Communication: Multi-Algorithm
 
 Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, 123: 184-199, Elsevier, 2017
 
-Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017 
+Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017
 
 Lukac M., Abdiyeva K., Kim A., Kameyama M., Reasoning and Algorithm Selection Augmented Symbolic Segmentation, IEEE Technically Sponsored Intelligent Systems Conference (IntelliSys), Accepted, 2017.
 
