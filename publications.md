@@ -16,6 +16,8 @@ Mukala P., Cerone A. and Turini F., An Empirical Verification of A-priori Learni
 
 M. Sterling, "Situated big data and big data analytics for healthcare," 2017 IEEE Global Humanitarian Technology Conference (GHTC), San Jose, CA, 2017, doi: 10.1109/GHTC.2017.8239322
 
+M. Sterling. Performance of Distributed Sensing Algorithms with Correlated Noise and Defective Sensors. In Proceedings of the 2017 2nd International Conference on Communication and Information Systems (ICCIS 2017). Wuhan, China, 2017. ACM DOI: 10.1145/3158233.3159344
+
 Fujioka Y., Kameyama K., Lukac M.,, A Dynamically Reconfigurable VLSI Processor with Hierarchical Structure based on a Micropacket Transfer Scheme, IDT (IEEE technically sponsored), (Accepted), 2017
 
 Lukac M., Bazarbayeva A., Kameyama M., Context Based Visual Content Verification, IDT (IEEE technically sponsored), (Accepted),  2017
