@@ -24,7 +24,7 @@ permalink: /faculty/
 
 [Hans de Nivelle](/faculty/nivelle)
 
-[Dirk Lehmann](/faculty/lehmann)
+[Aigerim Yessenbayeva](/faculty/yessen)
 
 
 <style>
