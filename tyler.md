@@ -11,7 +11,7 @@ permalink: /faculty/tyler
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/tyler.jpg" align="right" %}
 
-Associate Professor, Acting Chair
+Associate Professor, Associate Chair
 
 1. Modeling Language Design - My involvement in this area started in 2006, where I was tasked with implementing the Rosetta Systems-Level Design Language (SLDL).  The language itself was proposed in the late 1990s by people who were into hardware design.  Their goal was to create a flexible language that could be used to model different aspects of hardware, but the application areas for this is much wider.  What is technically interesting about Rosetta is its ability to modify its own semantics through special reflective "domain" constructs.<br/>
 Due to the heavyweight nature of the language, implementing full Rosetta is not feasible for a senior project.  However, implementing a lightweight version of Rosetta, or preferably a similar type of language that isn't directly tied to Rosetta, would make for an interesting project.  Students would be responsible for aspects of overall language design (what features and syntax?), as well as implementation (parsing, typechecking, executing, etc.)  The tricky part is to find a pragmatic way to approach reflection in the language - it needs to be both easy to use and understand, but not so limited as to be useless for real modeling tasks.

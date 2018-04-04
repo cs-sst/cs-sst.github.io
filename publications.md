@@ -4,12 +4,21 @@ title: Publications
 permalink: /publications/
 ---
 
+<h1>2018</h1>
+G. Yestemirova and S. Saginbekov, Efficient Data Aggregation in Wireless Sensor Networks with Multiple Sinks, The 32-nd IEEE International Conference on Advanced Information Networking and Applications (AINA-2018), Accepted 2018.
+
+Lukac M., Abdiyeva K., Kameyama M., CNOT-Measure Quantum Neural Networks, IEEE ISMVL 2018, accepted, 2018
+
 <h1>2017</h1>
 Cerone A., Model Mining - Integrating Data Analytics, Modelling and Verification, Journal of Intelligent Information Systems, Springer, 2017, Online First, DOI: 10.1007/s10844-017-0474-3.
 
 Mukala P., Cerone A. and Turini F., An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities, Education and Information Technologies 22(6): 3207-3229 (2017), Springer, DOI: 10.1007/s10639-017-9573-6.
 
-Fujioka Y., Kameyama K., Lukac M.,, A Dynamically Reconfigurable VLSI Processor with Hierarchical Structure based on a Micropacket Transfer Scheme, IDT (IEEE technically sponsored), (Accepted), 2017 
+M. Sterling, "Situated big data and big data analytics for healthcare," 2017 IEEE Global Humanitarian Technology Conference (GHTC), San Jose, CA, 2017, doi: 10.1109/GHTC.2017.8239322
+
+M. Sterling. Performance of Distributed Sensing Algorithms with Correlated Noise and Defective Sensors. In Proceedings of the 2017 2nd International Conference on Communication and Information Systems (ICCIS 2017). Wuhan, China, 2017. ACM DOI: 10.1145/3158233.3159344
+
+Fujioka Y., Kameyama K., Lukac M.,, A Dynamically Reconfigurable VLSI Processor with Hierarchical Structure based on a Micropacket Transfer Scheme, IDT (IEEE technically sponsored), (Accepted), 2017
 
 Lukac M., Bazarbayeva A., Kameyama M., Context Based Visual Content Verification, IDT (IEEE technically sponsored), (Accepted),  2017
 
@@ -17,9 +26,9 @@ Lukac M., Kerntopf P., Kameyama M., An Analytic Sifting Approach to Optimization
 
 Lukac M., Kameyama M., Migranova Y., Live-Feeling Communication: Multi-Algorithm Approach to the Estimation of Human Intentions, IEEE SMC, Accepted, 2017.
 
-Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, Elsevier, In Press.
+Saginbekov S., Jhumka A., Many-to-Many Data Aggregation Scheduling in Wireless Sensor Networks with Two Sinks, Computer Networks, 123: 184-199, Elsevier, 2017
 
-Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017 
+Lukac M., Krylov G., Study of GPU Acceleration in Genetic Algorithms for Quantum Circuit Synthesis, IEEE ISMVL, accepted, 2017
 
 Lukac M., Abdiyeva K., Kim A., Kameyama M., Reasoning and Algorithm Selection Augmented Symbolic Segmentation, IEEE Technically Sponsored Intelligent Systems Conference (IntelliSys), Accepted, 2017.
 
