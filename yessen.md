@@ -7,10 +7,14 @@ permalink: /faculty/yessen
 <div class="container" markdown="1">
 <div class="header" markdown="1">Aigerim Yessenbayeva [+]
 </div>
-<div class="content" markdown="1" style="height:150px;width:120px" align="right">
-{% include image.html url="/images/aigerim.jpg"  %}
+<div class="content" markdown="1" style="height:150px;width:120px">
+{% include image.html url="/images/aigerim.jpg" align="right" %}
 
 Instructor
-
+RESEARCH INTERESTS
+Aigerim has research interest in the following research topics:
+1. Robot Motion Planning. Optimality of Kinodynamic plannig.
+2. Another application of constraint programming I am interested in is automated game generation.
+3. Education in Computer Science using flipped classroom approach.
 </div>
 </div>
