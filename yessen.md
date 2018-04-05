@@ -9,7 +9,8 @@ permalink: /faculty/yessen
 </div>
 <div class="content" markdown="1" style="height:150px;width:120px">
 {% include image.html url="/images/aigerim.jpg" align="right" %}
-
+</div>
+<div class="content" markdown="1" style="min-height: 200px;">
 Instructor
 RESEARCH INTERESTS
 Aigerim has research interest in the following research topics:
