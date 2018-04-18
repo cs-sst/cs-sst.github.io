@@ -7,7 +7,7 @@ categories: fun
 
 prof. Steinbach came for a short visit (12/03 till 16/13). He presented his latest result on Boolean Differential Calculus as well as he introduced some of the details and advanced features of his XBoole software.
 
-<div class="content" markdown="1" style="height:150px;width:120px" align="right">
+<div class="content" markdown="1" align="right">
 {% include image.html url="/images/IMG_20180314_Steinbach.jpg" width=600 align="right" %}
 </div>
 
