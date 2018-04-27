@@ -19,6 +19,7 @@ Further research areas include: cognitive science, process mining and conformanc
 <B>Research Areas:</B>
 
 - [Data-driven Formal Modelling and Verification](/faculty/cerone/modellingfromdata)
+- [Formal Analysis of Human-computer Interaction](/faculty/cerone/formalhci)
 
 <B>Recent Publications:</B>
 
