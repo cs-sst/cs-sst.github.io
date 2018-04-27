@@ -24,7 +24,7 @@ as well as some form of prediction and analysis.
 A cognitive architecture is based on and implements a <em>theory of cognition</em>, which conceptulizes the structure of mind
 in terms of its processing and storage components and the way such components work together to produce human thinking and behaviour.</p>
 <p><strong>CAFAISHA</strong>
-,em>(Cognitive Architecture for the Formal Analysis of Interactive Systems and Human Activities)</em>
+<em>(Cognitive Architecture for the Formal Analysis of Interactive Systems and Human Activities)</em>
 is a cognitive architecture for the modelling of automatic and deliberate human behaviour as it occurs and evolves
 in a living environment as well as in interaction with machine interfaces.
 It features an environment that supports timed modelling, a spatial topology consisting of an arbitrary number
