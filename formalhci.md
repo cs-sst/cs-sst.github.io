@@ -4,7 +4,7 @@ title: Formal Analysis of Human-computer Interaction
 permalink: /faculty/cerone/formalhci
 ---
 
-<p><strong>Software/system</strong> verification aims to assure that a software application or a computer system
+<p><strong>Software/system verification</strong> aims to assure that a software application or a computer system
 fully satisfies all the expected requirements.</p>
 <p><strong>Formal verification</strong> uses mathematical techniques and tools to achieve such a goal in a very rigorous way,
 by formalizing the requirements as properties expressed in some logic formalism anc checking whether
@@ -29,8 +29,8 @@ in a living environment as well as in interaction with machine interfaces.
 It features an environment that supports timed modelling, a spatial topology consisting of an arbitrary number
 of systems, interfaces and human components, a model of short-term memory that includes closure, decay and chunking,
 a model of long-term memory that evolves throughout the time by exploiting experiences to build new knowledge abou
-the interaction, thus mimicking the creation of expectations and mental models.</p>
-<p>CAFAISHA can be used for modelling and analysing interactive systems using model-checkingand exploring alternative cognitive
+the interaction, thus mimicking the creation of expectations and mental models.
+CAFAISHA can be used for modelling and analysing interactive systems using model-checkingand exploring alternative cognitive
 theories, such as different models of the closure phenomenon, using the same set of real-life examples in order to understand
 which one appears to best match real data.</p>
 
