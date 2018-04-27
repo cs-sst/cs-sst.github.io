@@ -35,3 +35,5 @@ CAFAISHA can be used for modelling and analysing <em>interactive systems</em> an
 <em>model-checking</em></p>
 
 - Download [CAFAISHA](cafaisha.zip) (coming soon!)
+
+Research carried out by [Antonio Cerone](/faculty/cerone)
