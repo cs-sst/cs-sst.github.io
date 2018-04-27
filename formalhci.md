@@ -28,7 +28,7 @@ is a cognitive architecture for the modelling of automatic and deliberate human 
 in a living environment as well as in interaction with machine interfaces.
 It features an environment that supports timed modelling, a spatial topology consisting of an arbitrary number
 of systems, interfaces and human components, a model of short-term memory that includes closure, decay and chunking,
-a model of long-term memory that evolves throughout the time by exploiting experiences to build new knowledge abou
+and a model of long-term memory that evolves throughout the time by exploiting experiences to build new knowledge about
 the interaction, thus mimicking the creation of expectations and mental models.
 CAFAISHA can be used for modelling and analysing <em>interactive systems</em> and <em>human activities</em> as well as
 <em>exploring alternative cognitive theories</em>, such as different models of the closure phenomenon, using the same set of real-life examples in order to understand which one appears to best match real data. Formal analysis is carried out using
