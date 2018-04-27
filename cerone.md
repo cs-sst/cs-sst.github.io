@@ -27,7 +27,7 @@ Further research areas include: cognitive science, process mining and conformanc
 
 <B>Recent Publications:</B>
 
-Cerone A., <B>Model Mining - Integrating Data Analytics, Modelling and Verification</B>, <I>Journal of Intelligent Information Systems</I>, Springer, 2017, In press.
+Cerone A., <B>Model Mining - Integrating Data Analytics, Modelling and Verification</B>, <I>Journal of Intelligent Information Systems</I>, Springer, 2017, In press. [ [Info](https://link.springer.com/article/10.1007%2Fs10844-017-0474-3) ]
 
 Mukala P., Cerone A. and Turini F., <B>An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities</B>, <I>Education and Information Technologies</I>, Springer, 2017, Online, DOI: 10.1007/s10639-017-9573-6.
 
