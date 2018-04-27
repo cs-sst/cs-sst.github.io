@@ -27,14 +27,20 @@ Further research areas include: cognitive science, process mining and conformanc
 
 <B>Recent Publications:</B>
 
+Cerone A., Roveri M. (eds.), <B>SEFM 2017 Collocated Workshops: DataMod, FAACS, MSE, CoSim-CPS, and FOCLASA</B>, Vol. 10729 of Lecture Notes in Computer Science, Springer, 2018.
+[ [Info and Download](https://link.springer.com/book/10.1007%2F978-3-319-74781-1) ]
+
 Cerone A., <B>Model Mining - Integrating Data Analytics, Modelling and Verification</B>, <I>Journal of Intelligent Information Systems</I>, Springer, 2017, In press.
-[ [Info](https://link.springer.com/article/10.1007%2Fs10844-017-0474-3) ]
+[ [Info and Download](https://link.springer.com/article/10.1007%2Fs10844-017-0474-3) ]
 
 Mukala P., Cerone A. and Turini F., <B>An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities</B>, <I>Education and Information Technologies</I>, Springer, 2017, Online, DOI: 10.1007/s10639-017-9573-6.
+[ [Info and Download](https://www.springerprofessional.de/en/an-empirical-verification-of-a-priori-learning-models-on-mailing/12042024) ]
 
 Cerone A., <B>Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives</B>, <I>Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM)</I>, Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
+[ [Info and Download](https://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_17) ]
 
 Cerone A., <B>Refinement Mining: Using Data to Sift Plausible Models</B>, <I>Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: DataMod)</I>, Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 26-41.
+[ [Info and Download](https://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_3) ]
 
 </div>
 </div>
