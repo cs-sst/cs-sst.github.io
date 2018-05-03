@@ -35,6 +35,6 @@ CAFAISHA can be used for modelling and analysing <em>interactive systems</em> an
 <em>exploring alternative cognitive theories</em>, such as different models of the closure phenomenon, using the same set of real-life examples in order to understand which one appears to best match real data. <em>Formal analysis</em> is carried out using
 <em>model-checking</em></p>
 
-- Download [CAFAISHA](cafaisha.zip) (coming soon!)
+- Download [CAFAISHA](cafaisha.zip)
 
 Research carried out by [Antonio Cerone](/faculty/cerone)
