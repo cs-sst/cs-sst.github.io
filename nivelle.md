@@ -16,14 +16,11 @@ and
 <font color = "#CC0000"> implementation. </font>
 
 
-<ul>
-<li> <a href = "nivelle/publications/index.html"> Publications</a>.
+- [Publications](nivelle/publications/index.html).
+- [Software](nivelle/software/index.html).
+- [Presentations](nivelle/talks/index.html). 
 
-<li> <a href = "nivelle/software/index.html"> Software</a>.
-
-<li> <a href = "nivelle/talks/index.html"> Talks/Presentations</a>. </ul>
-
-<h2> Committee Memberships </h2>
+## Committee Memberships
 
 <ul>
 <li>
@@ -87,7 +84,7 @@ Z will be pointing behind you.
 If you align the cube, bottom right now contains the
 quaternion (1;-1,-1,1).
 
-<h2> Grants </h2>
+## Grants
 
 <ul>
 <li>
