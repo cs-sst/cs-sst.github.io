@@ -233,7 +233,7 @@ in size.
 Download [draft](infcomp2003_nochoice.pdf).
 
 ### Subsumption of concepts in FL0 for (cyclic) terminologies
-    with respect to descriptive semantics is PSPACE-complete. 
+### with respect to descriptive semantics is PSPACE-complete. 
 
 The paper solves an open problem concerning the complexities of
 the simple description logic FL0. FL0 is the description logic
@@ -378,7 +378,7 @@ The paper was published at CADE 97.
 #### The resolution game 
 
 Main contribution of the thesis is the 
-*resolution game* .
+__resolution game__ .
 The resolution game is a game that can be played between two players,
 based on a set of ordered clauses. 
 The *opponent* tries to derive the
