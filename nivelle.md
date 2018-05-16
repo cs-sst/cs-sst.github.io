@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <meta charset="UTF-8">
 <html>
@@ -59,8 +58,8 @@ woke up from its sleep!
 
 I organized <a href = "http://cade23.ii.uni.wroc.pl">CADE 23</a>, 
 <a href = "http://tableaux2015.ii.uni.wroc.pl">TABLEAUX 2015</a>, and
-<a href = "http://http://frocos2015.ii.uni.wroc.pl/">FroCoS 2015</a> in
-Wroclaw, Poland.
+<a href = "http://frocos2015.ii.uni.wroc.pl/">FroCoS 2015</a> in
+Wroc&#322aw, Poland.
 
 <a name = "quaternion_finder">
 
