@@ -17,11 +17,11 @@ and
 
 
 <ul>
-<li> <a href = "publications/index.html"> Publications</a>.
+<li> <a href = "nivelle/publications/index.html"> Publications</a>.
 
-<li> <a href = "software/index.html"> Software</a>.
+<li> <a href = "nivelle/software/index.html"> Software</a>.
 
-<li> <a href = "talks/index.html"> Talks/Presentations</a>. </ul>
+<li> <a href = "nivelle/talks/index.html"> Talks/Presentations</a>. </ul>
 
 <h2> Committee Memberships </h2>
 
