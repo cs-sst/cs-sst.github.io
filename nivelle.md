@@ -15,7 +15,7 @@ and *implementation*.
 
 
 - [Publications](nivelle/publications/index.md).
-- [Software](nivelle/software/index.md).
+- [Software](nivelle/software/index).
 - [Talks](nivelle/talks/index.md). 
 
 ## Committee Memberships
