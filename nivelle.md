@@ -1,11 +1,12 @@
 ---
-layout: html
+layout: page
 title: Faculty Members
 permalink: /faculty/nivelle
 ---
 
 
-## Research Interest
+## Research Interests
+
 My research interests are
 *automated theorem proving*, 
 *verification*, *proof theory*, 
@@ -71,20 +72,16 @@ quaternion (1;-1,-1,1).
 
 ## Grants
 
-<ul>
-<li>
-   Holder of NCN (Narodowe Centrum Nauki)
+- Holder of NCN (Narodowe Centrum Nauki)
    grant 'Decision Procedures for Verification'
    (DEC-2011/03/B/ST6/00346), together
    with <a href = "http://www.ii.uni.wroc.pl/~wch">Witold Charatonik</a>.
 
-<li>
-   Started on 01.03.2016:
+- Started on 01.03.2016:
    Zastosowania logiki z funcjami częściowymi.
    (Applications of Logic with Partial Functions).
    Summary <a href = "295596-pl.pdf"> in Polish</a> /
            <a href = "295596-en.pdf"> in English</a>.
-</ul>
 
 
 
