@@ -232,8 +232,7 @@ theorem prover into a purely first-order proof that is moderate
 in size.
 Download [draft](infcomp2003_nochoice.pdf).
 
-### Subsumption of concepts in FL0 for (cyclic) terminologies
-### with respect to descriptive semantics is PSPACE-complete. 
+### Subsumption of concepts in FL0 for (cyclic) terminologies with respect to descriptive semantics is PSPACE-complete. 
 
 The paper solves an open problem concerning the complexities of
 the simple description logic FL0. FL0 is the description logic
