@@ -4,7 +4,7 @@ title: Faculty Members
 permalink: /faculty/nivelle
 ---
 
-<h1> Hans de Nivelle <h1>
+<h1> Hans de Nivelle </h1>
 
 <h2> Research </h2>
 
@@ -29,7 +29,7 @@ and
 
 <ul>
 <li>
-   <a =href = "http://ijcar2018.org">IJCAR 2018</a>,
+   <a href = "http://ijcar2018.org">IJCAR 2018</a>,
    Oxford, UK, 14-17 July 2018.
 <li>
    <a href = "http://tableaux2017.cic.unb.br/">TABLEAUX 2017</a>,
