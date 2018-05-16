@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 title: Publications
 permalink: /faculty/nivelle/publications/index
 ---
