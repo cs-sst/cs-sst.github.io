@@ -1,6 +1,10 @@
+---
+layout: page
+title: Software
+permalink: /faculty/nivelle/software/index.md
+---
 
-
-<h1> Geo III </h1>
+## Geo III
 
 At this moment, Geo III is an unfinished prover for classical logic 
 with partial functions, based on 
@@ -13,13 +17,7 @@ The goal of Geo III is to implement the complete logic.
 I assume that this goal will be reached in the fall of 2015,
 because I implemented the hardest part first. 
 
-<h3> Availability of Geo </h3>
-
-Geo will be released shortly after CASC.
-Here is a short <a href = "CASC.html"> system description </a> 
-for <a href = "http://www.cs.miami.edu/~tptp/CASC/25">CASC 25</a>.
-
-<h3> Downloading Geo </h3>
+### Downloading
 
 <ul>
 <li>
@@ -30,7 +28,7 @@ for <a href = "http://www.cs.miami.edu/~tptp/CASC/25">CASC 25</a>.
 </li>
 </ul>
 
-<h3> Running Geo </h3>
+### Running Geo
 
 In order to run geo, unzip and untar. If you are lucky, you
 type './geo < blz202_4.geo' and you see that geo finds a proof.
@@ -56,8 +54,7 @@ Geo accepts the following parameters:
 </dl>
 
 
-<h3> Matching, Constraint Solver </h3>
-
+## Matching, Constraint Solver 
 Because geometric resolution relies heavily on constraint solving,
 the constraint solver is currently the most sophisticated part of Geo.
 The implementation is probably efficient enough for independent use,
@@ -73,8 +70,6 @@ algorithm.
 
 There are different benchmark sets.
 
-</body>
-</html>
 
 
 
