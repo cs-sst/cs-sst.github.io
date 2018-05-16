@@ -380,9 +380,9 @@ Main contribution of the thesis is the
 __resolution game__ .
 The resolution game is a game that can be played between two players,
 based on a set of ordered clauses. 
-The *opponent* tries to derive the
+The __opponent__ tries to derive the
 empty clause, using ordered resolution and factoring.
-The *defender* tries to disturb
+The __defender__ tries to disturb
 the opponent by changing the order at arbitrary moments. 
 The main theorem states that under certain restrictions,
 the opponent has a winning strategy (i.e. can always derive
@@ -423,7 +423,7 @@ However, the resolution calculi that are obtained in this way are
 bottom-up, i.e. working from the axioms towards the goal. 
 
 In my thesis, I show that many sequent calculi have a 
-*reversal*, which is obtained by 
+__reversal__, which is obtained by 
 exchanging axioms and goal, and reversing the direction of the rules.
 If one applies Maslov's method on the reversed sequent calculus,
 one obtains a top-down resolution calculus. 
