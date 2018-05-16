@@ -9,16 +9,14 @@ permalink: /faculty/nivelle
 <h2> Research </h2>
 
 My research interests are
-<font color = "#CC0000"> automated theorem proving, </font>
-<font color = "#CC0000"> verification, </font>
-<font color = "#CC0000"> proof theory, </font>
-and
-<font color = "#CC0000"> implementation. </font>
+*automated theorem proving*, 
+*verification*, *proof theory*, 
+and *implementation*.
 
 
-- [Publications](nivelle/publications/index.html).
-- [Software](nivelle/software/index.html).
-- [Presentations](nivelle/talks/index.html). 
+- [Publications](nivelle/publications/index.md).
+- [Software](nivelle/software/index.md).
+- [Presentations](nivelle/talks/index.md). 
 
 ## Committee Memberships
 
@@ -54,25 +52,21 @@ Wroclaw, Poland.
 
 <h2> Quaternion Finder </h2>
 
-Build your own <a href = "quaternion_finder.pdf">Quaternion Finder</a>!
+Build your own <a href = "nivelle/quaternion_finder.pdf">Quaternion Finder</a>!
 Thanks to Tomasz Wierzicki for the typesetting. <p>
 
 The cube can also be used for finding (the rotations of)
 transformations between different coordinate systems as follows:
 
-<ol>
-<li>
-   Align the cube with coordinate system C1.
-<li>
-   Find the position of (1;0,0,0) on the cube.
-<li>
-   Align the cube with coordinate system C2.
-<li>
-   The quaternion can be read off from the place where
+1. Align the cube with coordinate system C1.
+1. Find the position of (1;0,0,0) on the cube.
+1. Align the cube with coordinate system C2.
+1. The quaternion can be read off from the place where
    (1;0,0,0) was found in Step 2.
-</ol>
 
-<h4>Example</h4> What quaternion represents the eye coordinates
+#### Example 
+
+What quaternion represents the eye coordinates
 of a pilot, relative to the coordinate system of his plane?
 
 Assume that you are the pilot. Airplane coordinates have
