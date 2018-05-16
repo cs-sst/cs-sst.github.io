@@ -1,7 +1,7 @@
 
-layout : html
-title : Homepage of Hans de Nivelle
-permalink : /faculty/nivelle
+layout: page
+title: Homepage of Hans de Nivelle
+permalink: /faculty/nivelle
 
 <h1> Hans de Nivelle <h1>
 
