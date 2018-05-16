@@ -21,9 +21,7 @@ and
 
 <li> <a href = "software/index.html"> Software</a>.
 
-<li> <a href = "talks/index.html"> Talks/Presentations</a>.
-
-</ul>
+<li> <a href = "talks/index.html"> Talks/Presentations</a>. </ul>
 
 <h2> Committee Memberships </h2>
 
@@ -53,7 +51,7 @@ woke up from its sleep!
 I organized <a href = "http://cade23.ii.uni.wroc.pl">CADE 23</a>, 
 <a href = "http://tableaux2015.ii.uni.wroc.pl">TABLEAUX 2015</a>, and
 <a href = "http://frocos2015.ii.uni.wroc.pl/">FroCoS 2015</a> in
-Wroc&#322aw, Poland.
+Wroclaw, Poland.
 
 <a name = "quaternion_finder">
 
