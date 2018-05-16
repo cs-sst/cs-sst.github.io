@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Talks by Hans de Nivelle
-permalink : /faculty/nivelle/talks/index.md
+permalink : /faculty/nivelle/talks/index
 ---
 
 ## 2017 
