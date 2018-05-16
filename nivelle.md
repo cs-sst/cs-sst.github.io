@@ -4,10 +4,8 @@ title: Faculty Members
 permalink: /faculty/nivelle
 ---
 
-<h1> Hans de Nivelle </h1>
 
-<h2> Research </h2>
-
+## Research Interest
 My research interests are
 *automated theorem proving*, 
 *verification*, *proof theory*, 
@@ -15,7 +13,7 @@ and *implementation*.
 
 
 - [Publications](nivelle/publications/index).
-- [Software](nivelle/software/index).
+- [Software](nivelle/implementation/index).
 - [Talks](nivelle/talks/index). 
 
 ## Committee Memberships
