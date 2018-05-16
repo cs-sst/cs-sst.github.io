@@ -46,7 +46,7 @@ Wroclaw, Poland.
 ## Quaternion Finder
 
 Build your own [Quaternion Finder](nivelle/quaternion_finder.pdf)! 
-Thanks to Tomasz Wierzicki for the typesetting. 
+Thanks to Tomasz Wierzbicki for the typesetting. 
 
 The cube can also be used for finding (the rotations of)
 transformations between different coordinate systems as follows:
