@@ -13,8 +13,8 @@ and *implementation*.
 
 
 - [Publications](nivelle/publications/index).
-- [Software](nivelle/implementation/index).
 - [Talks](nivelle/talks/index). 
+- [Implementation](nivelle/implementation.index).
 
 ## Committee Memberships
 
