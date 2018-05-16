@@ -14,7 +14,7 @@ and *implementation*.
 
 - [Publications](nivelle/publications/index).
 - [Talks](nivelle/talks/index). 
-- [Implementation](nivelle/implementation.index).
+- [Implementation](nivelle/implementation/index).
 
 ## Committee Memberships
 
