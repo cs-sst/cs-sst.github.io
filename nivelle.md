@@ -26,7 +26,7 @@ and *implementation*.
    
 ## Past Committee Memberhips
 
-- [TABLEAUX 2017](http://tableaux2017.cic.unb.br/">TABLEAUX 2017),
+- [TABLEAUX 2017](http://tableaux2017.cic.unb.br/),
    Brasilia, 25-29 september 2017.
 - [CADE 26](http://www.cse.chalmers.se/~myreen/cade-26/index.html),
    Gothenburg, 6-11 August 2017.
