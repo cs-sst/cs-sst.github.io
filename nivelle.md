@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage of Hans de Nivelle
+title: Faculty Members
 permalink: /faculty/nivelle
 ---
 
