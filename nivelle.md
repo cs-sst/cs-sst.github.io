@@ -22,7 +22,7 @@ and *implementation*.
 
 - [IJCAR 2018](http://ijcar2018.org), 
    Oxford, UK, 14-17 July 2018.
-- Member of [TABLEAUX](http://www.tableaux-ar.org) steering committee.
+- Member of the [TABLEAUX](http://www.tableaux-ar.org) steering committee.
    
 ## Past Committee Memberhips
 
