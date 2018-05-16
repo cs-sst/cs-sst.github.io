@@ -38,10 +38,10 @@ and
    steering committee.
 </ul>
 
-<h2> Software </h2>
+## Teaching
 
-<a href = "http://www.ii.uni.wroc.pl/~nivelle/software/geo_III/">Geo</a>
-woke up from its sleep!
+For teaching, I refer to [my old homepage](http://www.ii.uni.wroc.pl/~nivelle/teaching/index.html) in
+[Wroclaw](https://en.wikipedia.org/wiki/Wroc%C5%82aw).
 
 <h2> Conferences Organized </h2>
 
