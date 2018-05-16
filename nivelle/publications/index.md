@@ -1,3 +1,8 @@
+---
+layout:page
+title: Publications
+permalink: /faculty/nivelle/publications/index
+---
 
 # Publications 
 
