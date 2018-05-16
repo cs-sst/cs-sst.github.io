@@ -14,14 +14,16 @@ and the transformation from first-order logic to geometric logic
 is still 2-valued. 
 The goal of Geo III is to eventually implement the complete logic.
 I assume that this goal will be reached in the fall of 2018,
-because I implemented the hardest part first. 
+because I wanted to work on matching first. 
 
 ### Downloading
 
-The latest published version is geo2015E.
+The latest public version is geo2016C.
 It can be downloaded from 
-[CASC](http://www.cs.miami.edu/~tptp/CASC/25/SystemsSources/).
+[CASC](http://www.cs.miami.edu/~tptp/CASC/J8/SystemsSources/).
 Note that Geo is released under GNU General Public Licence, Version 3.
+
+At CASC J9, there will be a new version. 
 
 ### Running Geo
 
@@ -33,20 +35,19 @@ the resulting executable works. You need a reasonably
 new version of g++, because Geo uses C++11.
 
 Geo accepts the following parameters:
-<dl>
-<dt> -inputfile %f. 
+-    -inputfile %f. 
 <dd> Instead of reading from standard input, read from the
    indicated file %f.
 <dt> -nonempty. 
 <dd> Do not allow empty models. Without this flag, geo cannot prove
     forall x. p(x) -> exists x. p(x), because the empty model
     is a counter model.
-<dt> -tptp_input. 
-<dd> Expect input in TPTP-format. 
-<dt> -include %p
-<dd> Use %p as the path, relative to which include files are defined.
-    TPTP-syntax allows includes. 
-</dl>
+<dt> -tptp_input. Expect input in TPTP-format. 
+-  -include %p
+   
+Use %p as the path, relative to which include files are defined.
+TPTP-syntax allows includes. 
+
 
 
 ## Matching, Constraint Solver 
