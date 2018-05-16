@@ -8,30 +8,25 @@ permalink: /faculty/nivelle/software/index
 
 At this moment, Geo III is an unfinished prover for classical logic 
 with partial functions, based on 
-<a href = "http://www.ii.uni.wroc.pl/~nivelle/publications/jlc2014.pdf">
-Kleene logic</a>.
+[Kleene Logic](https://cs-sst.github.io/faculty/nivelle/publications/index/jlc2014.pdf)
 In the current version, only Chapters 4 and 5 have been implemented,
 and the transformation from first-order logic to geometric logic
 is still 2-valued. 
-The goal of Geo III is to implement the complete logic.
-I assume that this goal will be reached in the fall of 2015,
+The goal of Geo III is to eventually implement the complete logic.
+I assume that this goal will be reached in the fall of 2018,
 because I implemented the hardest part first. 
 
 ### Downloading
 
-<ul>
-<li>
-   The latest version is geo2015E.
-   It can be downloaded from 
-   <a href = "http://www.cs.miami.edu/~tptp/CASC/25/SystemsSources/">CASC</a>.
-   Note that Geo is released under GNU General Public Licence, Version 3.
-</li>
-</ul>
+The latest published version is geo2015E.
+It can be downloaded from 
+[CASC](http://www.cs.miami.edu/~tptp/CASC/25/SystemsSources/).
+Note that Geo is released under GNU General Public Licence, Version 3.
 
 ### Running Geo
 
 In order to run geo, unzip and untar. If you are lucky, you
-type './geo < blz202_4.geo' and you see that geo finds a proof.
+can type './geo < blz202_4.geo' and you see that geo finds a proof.
 
 Otherwise, type  'touch Makefile', type 'make' and hope that
 the resulting executable works. You need a reasonably
@@ -55,16 +50,20 @@ Geo accepts the following parameters:
 
 
 ## Matching, Constraint Solver 
-Because geometric resolution relies heavily on constraint solving,
-the constraint solver is currently the most sophisticated part of Geo.
+
+Since geometric resolution relies heavily on constraint solving,
+the constraint solver is currently the most sophisticated part of Geo III.
 The implementation is probably efficient enough for independent use,
-outside of geometric resolution. Therefore, we publish the constraint
-solver as standalone package. The implementation is in portable C++(11).
-Solver reads input from stdin, and prints outpout into stdout. 
+outside of geometric resolution. In order to make such applications possible,
+we publish the constraint solver as standalone package. 
+The implementation is in portable C++(11).
+The solver reads input from stdin, and prints outpout into stdout, either
+UNSAT, or SAT and a satisfying substitution. 
+
 The input format is similar
 to DIMACS format for first-order logic, it is described in Section 7 of 
-<a href = "GCSP.pdf">this article</a>, which also describes the matching
-algorithm.  
+[this article](GCSP.pdf), which also describes a description of the matching
+algorithm used.
 
 <a href = "solver.tar.gz">These</a> are the sources.
 
