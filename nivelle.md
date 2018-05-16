@@ -1,16 +1,5 @@
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
-<meta charset="UTF-8">
-<html>
-
-<head>
-   <title>
-      Homepage of Hans de Nivelle
-   </title>
-</head>
-
-<body>
-
+<h1> Hans de Nivelle <h1>
 
 <h2> Research </h2>
 
@@ -112,7 +101,5 @@ quaternion (1;-1,-1,1).
            <a href = "295596-en.pdf"> in English</a>.
 </ul>
 
-</body>
-</html>
 
 
