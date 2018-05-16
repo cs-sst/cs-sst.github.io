@@ -14,14 +14,13 @@ My research interests are
 and *implementation*.
 
 
-- [Publications](nivelle/publications/index.md).
+- [Publications](nivelle/publications/index).
 - [Software](nivelle/software/index).
-- [Talks](nivelle/talks/index.md). 
+- [Talks](nivelle/talks/index). 
 
 ## Committee Memberships
 
-- [IJCAR 2018](http://ijcar2018.org), 
-   Oxford, UK, 14-17 July 2018.
+- [IJCAR 2018](http://ijcar2018.org), Oxford, UK, 14-17 July 2018.
 - Member of the [TABLEAUX](http://www.tableaux-ar.org) steering committee.
    
 ## Past Committee Memberhips
@@ -33,22 +32,21 @@ and *implementation*.
    
 ## Teaching
 
-For teaching, I refer to [my old homepage](http://www.ii.uni.wroc.pl/~nivelle/teaching/index.html) in
+For teaching, I refer to [my previous homepage](http://www.ii.uni.wroc.pl/~nivelle/teaching/index.html) in
 [Wroclaw](https://en.wikipedia.org/wiki/Wroc%C5%82aw).
 
-<h2> Conferences Organized </h2>
+## Conferences Organized
 
 I organized <a href = "http://cade23.ii.uni.wroc.pl">CADE 23</a>, 
 <a href = "http://tableaux2015.ii.uni.wroc.pl">TABLEAUX 2015</a>, and
 <a href = "http://frocos2015.ii.uni.wroc.pl/">FroCoS 2015</a> in
 Wroclaw, Poland.
 
-<a name = "quaternion_finder">
 
-<h2> Quaternion Finder </h2>
+## Quaternion Finder
 
-Build your own <a href = "nivelle/quaternion_finder.pdf">Quaternion Finder</a>!
-Thanks to Tomasz Wierzicki for the typesetting. <p>
+Build your own [Quaternion Finder](nivelle/quaternion_finder.pdf)! 
+Thanks to Tomasz Wierzicki for the typesetting. 
 
 The cube can also be used for finding (the rotations of)
 transformations between different coordinate systems as follows:
