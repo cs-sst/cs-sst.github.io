@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-permalink: /faculty/nivelle/software/index
+permalink: /faculty/nivelle/implementation/index
 ---
 
 ## Geo III
