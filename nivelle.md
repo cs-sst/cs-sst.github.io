@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: html
 title: Faculty Members
 permalink: /faculty/nivelle
 ---
