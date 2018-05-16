@@ -20,22 +20,17 @@ and *implementation*.
 
 ## Committee Memberships
 
-<ul>
-<li>
-   <a href = "http://ijcar2018.org">IJCAR 2018</a>,
+- [IJCAR 2018](http://ijcar2018.org), 
    Oxford, UK, 14-17 July 2018.
-<li>
-   <a href = "http://tableaux2017.cic.unb.br/">TABLEAUX 2017</a>,
-   25-29 september 2017.
-<li> <a href = "events/index.html">Past Workshop/Conference PC Memberships</a>.
-<li>
-   International Joint Conference on Automated Reasoning
-   <a href = "http://ijcar2018.org">IJCAR 2018</a>, 14-17 july 2018.
-<li> Member of
-   <a href = "http://www.tableaux-ar.org">TABLEAUX</a>
-   steering committee.
-</ul>
+- Member of [TABLEAUX](http://www.tableaux-ar.org) steering committee.
+   
+## Past Committee Memberhips
 
+- [TABLEAUX 2017](http://tableaux2017.cic.unb.br/">TABLEAUX 2017),
+   Brasilia, 25-29 september 2017.
+- [CADE 26](http://www.cse.chalmers.se/~myreen/cade-26/index.html),
+   Gothenburg, 6-11 August 2017.
+   
 ## Teaching
 
 For teaching, I refer to [my old homepage](http://www.ii.uni.wroc.pl/~nivelle/teaching/index.html) in
