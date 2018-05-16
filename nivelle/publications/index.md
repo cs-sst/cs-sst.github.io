@@ -426,8 +426,8 @@ exchanging axioms and goal, and reversing the direction of the rules.
 If one applies Maslov's method on the reversed sequent calculus,
 one obtains a top-down resolution calculus. 
 
-You may download [the thesis](proefschrift_proefschrift.pdf) if
-you promise to read it completely.
+You may download [the thesis](proefschrift_proefschrift.pdf) free
+of charge if you promise to read it completely.
 
 ## 1994 
 
