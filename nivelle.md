@@ -4,8 +4,6 @@ title: Faculty Members
 permalink: /faculty/nivelle
 ---
 
-{% include image.html url="/images/nivelle.jpg" align="right" %}
-
 ## Research Interests
 
 My research interests are
@@ -83,4 +81,8 @@ quaternion (1;-1,-1,1).
    (Applications of Logic with Partial Functions).
    [In Polish](nivelle/295596-pl.pdf) / [In English](nivelle/295596-en.pdf).
 
+
+## Picture
+
+{% include image.html url="/images/nivelle.jpg" align="right" %}
 
