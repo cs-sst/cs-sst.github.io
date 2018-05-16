@@ -4,6 +4,7 @@ title: Faculty Members
 permalink: /faculty/nivelle
 ---
 
+{% include image.html url="/images/nivelle.jpg" align="right" %}
 
 ## Research Interests
 
@@ -75,13 +76,12 @@ quaternion (1;-1,-1,1).
 - Holder of NCN (Narodowe Centrum Nauki)
    grant 'Decision Procedures for Verification'
    (DEC-2011/03/B/ST6/00346), together
-   with <a href = "http://www.ii.uni.wroc.pl/~wch">Witold Charatonik</a>.
+   with [Witold Charatonik](http://www.ii.uni.wroc.pl/~wch).
 
 - Started on 01.03.2016:
    Zastosowania logiki z funcjami częściowymi.
    (Applications of Logic with Partial Functions).
-   Summary <a href = "295596-pl.pdf"> in Polish</a> /
-           <a href = "295596-en.pdf"> in English</a>.
+   [In Polish](295596-pl.pdf) / [In English](295596-en.pdf).
 
 
 
