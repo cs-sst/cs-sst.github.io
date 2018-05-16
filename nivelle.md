@@ -1,16 +1,18 @@
----
-layout: page
-title: Faculty Members
-permalink: /faculty/nivelle
----
 
-<div class="container" markdown="1">
-<div class="header" markdown="1">Hans de Nivelle [+]
-</div>
-<div class="content" markdown="1" style="min-height: 200px;">
-{% include image.html url="/images/putyourpicturehere.jpg" align="right" %}
 
-Associate Professor
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<meta charset="UTF-8">
+<html>
+
+<head>
+   <title>
+      Homepage of Hans de Nivelle
+   </title>
+</head>
+
+<body>
+
+
 <h2> Research </h2>
 
 My research interests are
@@ -34,6 +36,9 @@ and
 
 <ul>
 <li>
+   <a =href = "http://ijcar2018.org">IJCAR 2018</a>,
+   Oxford, UK, 14-17 July 2018.
+<li>
    <a href = "http://tableaux2017.cic.unb.br/">TABLEAUX 2017</a>,
    25-29 september 2017.
 <li> <a href = "events/index.html">Past Workshop/Conference PC Memberships</a>.
@@ -50,18 +55,16 @@ and
 <a href = "http://www.ii.uni.wroc.pl/~nivelle/software/geo_III/">Geo</a>
 woke up from its sleep!
 
-<h2> TABLEAUX/FroCoS 2015 </h2>
+<h2> Conferences Organized </h2>
 
-I organized
-<a href = "http://tableaux2015.ii.uni.wroc.pl">TABLEAUX</a>
-and
-<a href = "http://frocos2015.ii.uni.wroc.pl">FroCoS</a>
-in Wroclaw during 21-24 September 2015.
+I organized <a href = "http://cade23.ii.uni.wroc.pl">CADE 23</a>, 
+<a href = "http://tableaux2015.ii.uni.wroc.pl">TABLEAUX 2015</a>, and
+<a href = "http://http://frocos2015.ii.uni.wroc.pl/">FroCoS 2015</a> in
+Wroclaw, Poland.
 
 <a name = "quaternion_finder">
 
-
-h2> Quaternion Finder </h2>
+<h2> Quaternion Finder </h2>
 
 Build your own <a href = "quaternion_finder.pdf">Quaternion Finder</a>!
 Thanks to Tomasz Wierzicki for the typesetting. <p>
@@ -110,6 +113,7 @@ quaternion (1;-1,-1,1).
            <a href = "295596-en.pdf"> in English</a>.
 </ul>
 
+</body>
+</html>
 
-</div>
-</div>
+
