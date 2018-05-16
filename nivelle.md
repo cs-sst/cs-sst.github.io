@@ -81,7 +81,6 @@ quaternion (1;-1,-1,1).
 - Started on 01.03.2016:
    Zastosowania logiki z funcjami częściowymi.
    (Applications of Logic with Partial Functions).
-   [In Polish](295596-pl.pdf) / [In English](295596-en.pdf).
-
+   [In Polish](nivelle/295596-pl.pdf) / [In English](nivelle/295596-en.pdf).
 
 
