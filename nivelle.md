@@ -1,4 +1,8 @@
 
+layout : html
+title : Homepage of Hans de Nivelle
+permalink : /faculty/nivelle
+
 <h1> Hans de Nivelle <h1>
 
 <h2> Research </h2>
