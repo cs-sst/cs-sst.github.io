@@ -208,8 +208,7 @@ $ \GF^2 $ without extra machinery such as fixed point-operators.
 Download as [pdf](newtocl.pdf).
 
 
-## Implementing the Clausal Normal Form Transformation with Proof
-   Generation
+## Implementing the Clausal Normal Form Transformation with Proof Generation
 
 
 The paper describes how I intend to implement the clausal
@@ -220,8 +219,7 @@ which allows easy proof checking and proof normalization.
 [Download](wil2003_proofs.pdf).
 
 
-### Translation of Resolution Proofs into Short First-Order Proofs 
-    without Choice Axioms 
+### Translation of Resolution Proofs into Short First-Order Proofs without Choice Axioms 
 
 We present a way of transforming a resolution proof containing
 Skolemization into a natural deduction proof of the same formula
