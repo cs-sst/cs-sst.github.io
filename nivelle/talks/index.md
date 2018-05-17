@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title : Talks by Hans de Nivelle
