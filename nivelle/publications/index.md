@@ -4,7 +4,7 @@ title: Publications
 permalink: /faculty/nivelle/publications/index
 ---
 
-# Publications 
+# Publications by Hans de Nivelle
 
 ## 2016 
 
