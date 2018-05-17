@@ -39,13 +39,13 @@ Geo accepts the following parameters:
 -  `-inputfile %f` Instead of reading from standard input, read from the
    indicated file `%f`.
    
--  `-nonempty.`  Do not allow empty models. Without this flag, geo cannot prove
+-  `-nonempty`  Do not allow empty models. Without this flag, geo cannot prove
     `forall x. p(x) -> exists x. p(x)`, because the empty model
      is a counter model.
     
--  `-tptp_input`. Expect input in TPTP-format.
+-  `-tptp_input` Expect input in TPTP-format.
 
--  `-include %p`. Use `%p` as the path, relative to which include files are defined. TPTP-syntax allows includes. 
+-  `-include %p` Use `%p` as the path, relative to which include files are defined. TPTP-syntax allows includes. 
 
 
 ## Matching, Constraint Solver 
@@ -79,15 +79,13 @@ Subdirector `gcsp_examples` contains examples.
 
 The following input formats are possible
 
-- `./solver`.  Reads input from stdin, and writes solution or 'UNSAT' to stdout. 
+- `./solver` Reads input from stdin, and writes solution or 'UNSAT' to stdout. 
 
-- `./solver %filename`. Reads input from filename, and writes solution or 'UNSAT' to stdout.
+- `./solver %filename` Reads input from filename, and writes solution or 'UNSAT' to stdout.
 
-- `./solver -cnf`. Reads input from stdin, and writes conversion to CNF to stdout. 
+- `./solver -cnf` Reads input from stdin, and writes conversion to CNF to stdout. 
     The following should work `./solver -cnf gcsp_examples/summer2016/demod06.dim | minisat`, if you have `minisat` installed.
     
-- `./solver -cnf %inputfile`. Reads input from `%filename` and writes CNF-conversion to stdout.
-
-
+- `./solver -cnf %inputfile` Reads input from `%filename` and writes CNF-conversion to stdout.
 
 
