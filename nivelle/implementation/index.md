@@ -86,6 +86,6 @@ The following input formats are possible
 - `./solver -cnf` Reads input from stdin, and writes conversion to CNF to stdout. 
     
 - `./solver -cnf %inputfile` Reads input from `%filename` and writes CNF-conversion to stdout.
-   The following should work `./solver -cnf gcsp_examples/summer2016/demod06.dim | minisat`, if you have `minisat` installed.
+   The following should work: `./solver -cnf gcsp_examples/summer2016/demod06.dim | minisat`, if you have `minisat` installed.
 
 
