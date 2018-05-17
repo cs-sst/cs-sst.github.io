@@ -69,8 +69,8 @@ algorithm used.
 [These](geo2018gcsp.tar.gz) are the sources.
 
 In order to run the solver, unzip and untar. If you are lucky, you
-can type `./solver gcsp_examples/summer2016/demod06.dim` and you see that 
-the solver finds an interpretation.
+can type `./solver gcsp_examples/summer2016/demod06.dim` and watch the solver find
+an interpretation.
 
 Otherwise, type  `touch Makefile`, type `make` and hope that
 the resulting executable works. You need a reasonably
