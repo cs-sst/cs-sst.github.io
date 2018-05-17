@@ -79,13 +79,13 @@ Subdirector `gcsp_examples` contains examples.
 
 The following input formats are possible
 
-- `./solver` Reads input from stdin, and writes solution or 'UNSAT' to stdout. 
+- `./solver` Reads input from stdin, and writes a solution or 'UNSAT' to stdout. 
 
-- `./solver %filename` Reads input from filename, and writes solution or 'UNSAT' to stdout.
+- `./solver %filename` Reads input from filename, and writes a solution or 'UNSAT' to stdout.
 
 - `./solver -cnf` Reads input from stdin, and writes conversion to CNF to stdout. 
-    The following should work `./solver -cnf gcsp_examples/summer2016/demod06.dim | minisat`, if you have `minisat` installed.
     
 - `./solver -cnf %inputfile` Reads input from `%filename` and writes CNF-conversion to stdout.
+   The following should work `./solver -cnf gcsp_examples/summer2016/demod06.dim | minisat`, if you have `minisat` installed.
 
 
