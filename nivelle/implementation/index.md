@@ -36,28 +36,25 @@ new version of g++, because Geo uses C++11.
 
 Geo accepts the following parameters:
 
--  `-inputfile %f`  Instead of reading from standard input, read from the
-   indicated file %f.
+-  `-inputfile %f` Instead of reading from standard input, read from the
+   indicated file `%f`.
    
--  `-nonempty.` Do not allow empty models. Without this flag, geo cannot prove
+-  `-nonempty.`  Do not allow empty models. Without this flag, geo cannot prove
     `forall x. p(x) -> exists x. p(x)`, because the empty model
      is a counter model.
     
 -  `-tptp_input`. Expect input in TPTP-format.
 
--  `-include %p`.
-   
-Use %p as the path, relative to which include files are defined.
-TPTP-syntax allows includes. 
+-  `-include %p`. Use `%p` as the path, relative to which include files are defined. TPTP-syntax allows includes. 
 
 
 ## Matching, Constraint Solver 
 
 Since geometric resolution relies heavily on constraint solving,
 the constraint solver is currently the most sophisticated part of Geo III.
-The implementation is probably efficient enough for independent use,
-outside of geometric resolution. In order to make such applications possible,
-we publish the constraint solver as standalone package. 
+The implementation is probably efficient enough for stand-alone use,
+outside of geometric resolution. In order to make this possible,
+the constraint solver can be download independently. 
 The implementation is in portable C++(11).
 The solver reads input from stdin, and prints outpout into stdout, either
 UNSAT, or SAT and a satisfying substitution. 
@@ -67,9 +64,27 @@ to DIMACS format for first-order logic, it is described in Section 7 of
 [this article](GCSP.pdf), which also describes a description of the matching
 algorithm used.
 
-<a href = "solver.tar.gz">These</a> are the sources.
+[These](geo2018gcsp.tar.gz) are the sources.
 
-There are different benchmark sets.
+In order to run the solver, unzip and untar. If you are lucky, you
+can type `./solver gcsp_examples/summer2016/demod06.dim` and you see that 
+the solver finds an interpretation.
+
+Otherwise, type  `touch Makefile`, type `make` and hope that
+the resulting executable works. You need a reasonably
+new version of g++, because the solver uses C++-2014.
+Subdirector `gcsp_examples` contains examples. 
+
+The following input formats are possible
+
+- `./solver`.  Reads input from stdin, and writes solution or 'UNSAT' to stdout. 
+
+- `./solver %filename`. Reads input from filename, and writes solution or 'UNSAT' to stdout.
+
+- `./solver -cnf`. Reads input from stdin, and writes conversion to CNF to stdout. 
+    The following should work `./solver -cnf gcsp_examples/summer2016/demod06.dim | minisat`, if you have `minisat` installed.
+    
+- `./solver -cnf %inputfile`. Reads input from `%filename` and writes CNF-conversion to stdout.
 
 
 
