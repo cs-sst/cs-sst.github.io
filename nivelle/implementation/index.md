@@ -56,8 +56,10 @@ The implementation is probably efficient enough for stand-alone use,
 outside of geometric resolution. In order to make this possible,
 the constraint solver can be download independently. 
 The implementation is in portable C++(11).
-The solver reads input from stdin, and prints outpout into stdout, either
-UNSAT, or SAT and a satisfying substitution. 
+The solver reads input from a specified ile, and prints outpout into stdout, either
+UNSAT, or SAT and a satisfying substitution. It can be called with 
+option `-cnf`, which will cause it to transform the problem to CNF (Dimacs format)
+without trying to solve it.
 
 The input format is similar
 to DIMACS format for first-order logic, it is described in Section 7 of 
