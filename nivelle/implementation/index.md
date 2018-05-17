@@ -48,7 +48,7 @@ Geo accepts the following parameters:
 -  `-include %p` Use `%p` as the path, relative to which include files are defined. TPTP-syntax allows includes. 
 
 
-## Matching, Constraint Solver 
+## Matching, Constraint Solving
 
 Since geometric resolution relies heavily on constraint solving,
 the constraint solver is currently the most sophisticated part of Geo III.
