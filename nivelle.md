@@ -4,6 +4,8 @@ title: Faculty Members
 permalink: /faculty/nivelle
 ---
 
+# Hans de Nivelle, School of Science and Techology 
+
 ## Research Interests
 
 My research interests are
