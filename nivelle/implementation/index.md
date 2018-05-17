@@ -28,26 +28,27 @@ At CASC J9, there will be a new version.
 ### Running Geo
 
 In order to run geo, unzip and untar. If you are lucky, you
-can type './geo < blz202_4.geo' and you see that geo finds a proof.
+can type `./geo < testexamples/blz202_4.geo` and you see that geo finds a proof.
 
-Otherwise, type  'touch Makefile', type 'make' and hope that
+Otherwise, type  `touch Makefile`, type `make` and hope that
 the resulting executable works. You need a reasonably
 new version of g++, because Geo uses C++11.
 
 Geo accepts the following parameters:
--    -inputfile %f. 
-<dd> Instead of reading from standard input, read from the
+
+-  `-inputfile %f`  Instead of reading from standard input, read from the
    indicated file %f.
-<dt> -nonempty. 
-<dd> Do not allow empty models. Without this flag, geo cannot prove
-    forall x. p(x) -> exists x. p(x), because the empty model
-    is a counter model.
-<dt> -tptp_input. Expect input in TPTP-format. 
--  -include %p
+   
+-  `-nonempty.` Do not allow empty models. Without this flag, geo cannot prove
+    `forall x. p(x) -> exists x. p(x)`, because the empty model
+     is a counter model.
+    
+-  `-tptp_input`. Expect input in TPTP-format.
+
+-  `-include %p`.
    
 Use %p as the path, relative to which include files are defined.
 TPTP-syntax allows includes. 
-
 
 
 ## Matching, Constraint Solver 
