@@ -63,7 +63,7 @@ without trying to solve it.
 
 The input format is similar
 to DIMACS format for first-order logic, it is described in Section 7 of 
-[this article](GCSP.pdf), which also contains a description of the matching
+[this article](gcsp.pdf), which also contains a description of the matching
 algorithm used.
 
 [These](geo2018gcsp.tar.gz) are the sources.
