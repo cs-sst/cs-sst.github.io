@@ -56,14 +56,14 @@ The implementation is probably efficient enough for stand-alone use,
 outside of geometric resolution. In order to make this possible,
 the constraint solver can be download independently. 
 The implementation is in portable C++(11).
-The solver reads input from a specified ile, and prints outpout into stdout, either
-UNSAT, or SAT and a satisfying substitution. It can be called with 
+The solver reads input from a specified file, and prints output into stdout, either
+`UNSAT`, or `SAT` and a satisfying substitution. It can be called with 
 option `-cnf`, which will cause it to transform the problem to CNF (Dimacs format)
 without trying to solve it.
 
 The input format is similar
 to DIMACS format for first-order logic, it is described in Section 7 of 
-[this article](GCSP.pdf), which also describes a description of the matching
+[this article](GCSP.pdf), which also contains a description of the matching
 algorithm used.
 
 [These](geo2018gcsp.tar.gz) are the sources.
@@ -75,7 +75,7 @@ an interpretation.
 Otherwise, type  `touch Makefile`, type `make` and hope that
 the resulting executable works. You need a reasonably
 new version of g++, because the solver uses C++-2014.
-Subdirector `gcsp_examples` contains examples. 
+Subdirectory `gcsp_examples` contains examples. 
 
 The following input formats are possible
 
