@@ -39,7 +39,7 @@ Cerone A., Roveri M. (eds.), <B>SEFM 2017 Collocated Workshops: DataMod, FAACS, 
 Cerone A., <B>Model Mining - Integrating Data Analytics, Modelling and Verification</B>, <I>Journal of Intelligent Information Systems</I>, Springer, 2017, In press.
 [ [Info and Download](https://link.springer.com/article/10.1007%2Fs10844-017-0474-3) ]
 
-Mukala P., Cerone A. and Turini F., <B>An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities</B>, <I>Education and Information Technologies</I>, Springer, 2017, Online, DOI: 10.1007/s10639-017-9573-6.
+Mukala P., Cerone A. and Turini F., <B>An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities</B>, <I>Education and Information Technologies</I> 22(6): 3207-3229 (2017), Springer, DOI: 10.1007/s10639-017-9573-6.
 [ [Info and Download](https://www.springerprofessional.de/en/an-empirical-verification-of-a-priori-learning-models-on-mailing/12042024) ]
 
 Cerone A., <B>Human-Oriented Formal Modelling of Human-Computer Interaction: Practitioners’ and Students’ Perspectives</B>, <I>Software Technologies: Applications and Foundations (STAF 2016 Collocated Workshops: HOFM)</I>, Vol. 9946 of Lecture Notes in Computer Science, Springer, 2016, pages 232-241.
