@@ -10,9 +10,6 @@ Cerone A., Zhexenbayeva A., Using Formal Methods to Validate Research Hypotheses
 Cerone A., FormalMiner: a Formal Framework for Refinement Mining, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
 
 Cerone A., Towards a Cognitive Architecture for the Formal Analysis of Human Behaviour and Learning, FMIS 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
-Cerone A., FormalMiner: a Formal Framework for Refinement Mining, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
-
-Cerone A., Towards a Cognitive Architecture for the Formal Analysis of Human Behaviour and Learning, FMIS 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
 
 Cerone A., Roveri M. (eds.), SEFM 2017 Collocated Workshops: DataMod, FAACS, MSE, CoSim-CPS, and FOCLASA, Vol. 10729 of Lecture Notes in Computer Science, Springer, 2018.
 
