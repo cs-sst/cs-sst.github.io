@@ -36,7 +36,7 @@ Cerone A., <B>Towards a Cognitive Architecture for the Formal Analysis of Human 
 Cerone A., Roveri M. (eds.), <B>SEFM 2017 Collocated Workshops: DataMod, FAACS, MSE, CoSim-CPS, and FOCLASA</B>, Vol. 10729 of Lecture Notes in Computer Science, Springer, 2018.
 [ [Info and Download](https://link.springer.com/book/10.1007%2F978-3-319-74781-1) ]
 
-Cerone A., <B>Model Mining - Integrating Data Analytics, Modelling and Verification</B>, <I>Journal of Intelligent Information Systems</I>, Springer, 2017, In press.
+Cerone A., <B>Model Mining - Integrating Data Analytics, Modelling and Verification</B>, <I>Journal of Intelligent Information Systems</I>, Springer, 2017, In press, Online First, DOI: 10.1007/s10844-017-0474-3.
 [ [Info and Download](https://link.springer.com/article/10.1007%2Fs10844-017-0474-3) ]
 
 Mukala P., Cerone A. and Turini F., <B>An Empirical Verification of A-priori Learning Models on Mailing Archives in the context of Online Learning Activities of Participants in Free/Libre Open Source Software (FLOSS) Communities</B>, <I>Education and Information Technologies</I> 22(6): 3207-3229 (2017), Springer, DOI: 10.1007/s10639-017-9573-6.
