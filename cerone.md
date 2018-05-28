@@ -27,6 +27,12 @@ Further research areas include: cognitive science, process mining and conformanc
 
 <B>Recent Publications:</B>
 
+Cerone A., Zhexenbayeva A., <B>Using Formal Methods to Validate Research Hypotheses: the Duolingo Case Study</B>, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+
+Cerone A., <B>FormalMiner: a Formal Framework for Refinement Mining</B>, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+
+Cerone A., <B>Towards a Cognitive Architecture for the Formal Analysis of Human Behaviour and Learning</B>, FMIS 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+
 Cerone A., Roveri M. (eds.), <B>SEFM 2017 Collocated Workshops: DataMod, FAACS, MSE, CoSim-CPS, and FOCLASA</B>, Vol. 10729 of Lecture Notes in Computer Science, Springer, 2018.
 [ [Info and Download](https://link.springer.com/book/10.1007%2F978-3-319-74781-1) ]
 
