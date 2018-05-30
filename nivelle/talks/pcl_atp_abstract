@@ -1,0 +1,23 @@
+
+Theorem Proving in PCL
+
+Partial Classical Logic (PCL) is a three-valued logic that I 
+introduced in 2009-2010 with the goal of modelling partial functions
+in mathematics and programming. 
+
+In 2012, I developed theorem proving methods for PCL, 
+based on geometric logic. 
+I turned out that these theorem proving methods are not
+just a collection of tricks, but that they provide some real
+insight into the nature of PCL. It let to the following indirect results:
+- A clarification of the relation between classical logic,
+  PCL and 3-valued Kleene logic. 
+- A new calculus Seq(\preceq) for PCL, with a somewhat unusual semantics, 
+  which has more readable and shorter proofs than its predecessor
+  (Seq2PCL). 
+
+And of course, I will explain how to do the theorem proving:
+First translate PCL into Kleene logic, and after that 
+use any of the standard techniques (resolution, semantic tableaux,
+geometric logic) with minimal adaptation. 
+

@@ -5,6 +5,14 @@ permalink: /publications/
 ---
 
 <h1>2018</h1>
+Cerone A., Zhexenbayeva A., Using Formal Methods to Validate Research Hypotheses: the Duolingo Case Study, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+
+Cerone A., FormalMiner: a Formal Framework for Refinement Mining, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+
+Cerone A., Towards a Cognitive Architecture for the Formal Analysis of Human Behaviour and Learning, FMIS 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+
+Cerone A., Roveri M. (eds.), SEFM 2017 Collocated Workshops: DataMod, FAACS, MSE, CoSim-CPS, and FOCLASA, Vol. 10729 of Lecture Notes in Computer Science, Springer, 2018.
+
 G. Yestemirova and S. Saginbekov, Efficient Data Aggregation in Wireless Sensor Networks with Multiple Sinks, The 32-nd IEEE International Conference on Advanced Information Networking and Applications (AINA-2018), Accepted 2018.
 
 Lukac M., Abdiyeva K., Kameyama M., CNOT-Measure Quantum Neural Networks, IEEE ISMVL 2018, accepted, 2018
