@@ -32,6 +32,8 @@ permalink: /faculty/
 
 [Jurn Gyu Park](/faculty/park)
 
+[Dinh-Mao Bui](/faculty/bui)
+
 [Aigerim Yessenbayeva](/faculty/yessen)
 
 [Nazgul Tazhigaliyeva](/faculty/tazhigaliyeva)
