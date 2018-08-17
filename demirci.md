@@ -5,7 +5,7 @@ permalink: /faculty/demirci
 ---
 
 <div class="container" markdown="1">
-<div class="header" markdown="1">Muhammed Fatih Demirci  [+]
+<div class="header" markdown="1">Fatih Demirci  [+]
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/yourimage.jpg" align="right" %}
