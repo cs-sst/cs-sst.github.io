@@ -40,7 +40,7 @@ Kok-Seng Wong and Myung Ho Kim, "Privacy Protection for Data-Driven Smart Manufa
 
 Kok-Seng Wong and Myung Ho Kim, "Secure Rank Correlation Computation for IoT Applications", International Journal of Services Technology and Management (ISSN: 1460-6720), Vol. 23, No. 1/2 , pp. 40-51, 2017. 2  
 
-Complete list of publications and other information can be found at the following link: <a href="https://sites.google.com/view/kswongnu/" target="_blank">https://sites.google.com/view/kswongnu/ </a>
+<I>Complete list of publications and other information can be found at the following link:</I><br> <a href="https://sites.google.com/view/kswongnu/" target="_blank">https://sites.google.com/view/kswongnu/ </a>
 
 </div>
 </div>
