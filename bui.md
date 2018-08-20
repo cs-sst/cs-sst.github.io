@@ -5,12 +5,12 @@ permalink: /faculty/bui
 ---
 
 <div class="container" markdown="1">
-<div class="header" markdown="1">Dinh-Mao Bui [+]
+<div class="header" markdown="1"><B>Dinh-Mao Bui</B>
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/picture.jpg" align="right" %}
 
-Assistant Professor
+<B>Assistant Professor</B>
 
 Currently, I have finished the Ph.D. in Computer Engineering from the Ubiquitous Computing Lab, Department of Computer Science and Engineering, Kyung Hee University, Korea. My current research interests are machine learning (supervised learning, especially the prediction technique) and optimization for the distributed system, big data, and networking. Some of my works, which include the adaptive replication management in HDFS, the multiuser detection in DS-CDMA, and the energy efficiency in cloud computing, are based on my improved Gaussian process prediction method. In the past, my previous research works are related to modeling and optimizing the operation of Infrastructure-as-a-Services (IaaS) cloud computing in the datacenter.
 
@@ -21,7 +21,6 @@ Currently, I have finished the Ph.D. in Computer Engineering from the Ubiquitous
 - Stochastic processes.
 - Performance enhancement for distributed system.
 - Energy efficiency.
-- Collaborative Learning
 
 <B>Selected Publications:</B>
 
