@@ -9,6 +9,7 @@ permalink: /faculty/wong
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/yourimage.jpg" align="right" %}
+<img src="/images/wong.jpg" align="right">
 
 Assistant Professor
 
