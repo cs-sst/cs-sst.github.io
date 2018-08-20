@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 <h1>2018</h1>
+Sterling G., Tyler B.,  Renewable Energy Management Using Action Dependent Heuristic Dynamic Programming. 4th IEEE International Smart Cities Conference (ISC2).  2018.	
+
+Tyler B., Yessenbayeva A.,  A Comparison of Flipped Programming Classroom Models – Results by Gender and Major.  IEEE/ASEE Frontiers in Education 2018 Conference. 2018.
+
 Lukac M., Steinbach B., Analysis of Quantumm Circuits with Classical Boolean Logic, International Workshop on Boolean Problems, IWSBP 2018, accepted
 
 Lukac M., Izbassarova N., Li A., Kameyama M., Algorthm Selection for Non-Linearly Separable Algorithms in Computer Vision, Euromicro Workshop on ML-IoT, accepted
