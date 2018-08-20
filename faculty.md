@@ -24,7 +24,7 @@ permalink: /faculty/
 
 [Hans de Nivelle](/faculty/nivelle)
 
-[Siamac Fazli](/faculty/nivelle)
+[Siamac Fazli](/faculty/fazli)
 
 [Muhammad Fatih Demirci](/faculty/demirci)
 
