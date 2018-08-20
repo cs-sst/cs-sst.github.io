@@ -8,7 +8,8 @@ permalink: /faculty/wong
 <div class="header" markdown="1">Kok Seng Wong  [+]
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
-{% include image.html url="/images/wong.jpg" align="right" %}
+{% include image.html url="/images/wongkokseng.jpg" align="right" %}
+<img src="/images/wongkokseng.jpg" align="right">
 
 Assistant Professor
 
