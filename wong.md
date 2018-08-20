@@ -18,7 +18,7 @@ He is currently Assistant Professor in the Department of Computer Science, Schoo
 
 His research interests lie in the fields of cryptography, secret sharing, security, data privacy, and biometrics. His ultimate research goal is to help users to protect their data privacy in this technology era. However, his research interests are not limited to the above topics/areas. 
 
-Website: https://sites.google.com/view/kswongnu/
+Website: <a href="https://sites.google.com/view/kswongnu/">
 
 </div>
 </div>
