@@ -30,9 +30,9 @@ Kok-Seng Wong and Myung Ho Kim, "Emerging Issues and Challenges for Cloud Data a
 Yee Jian Chew, Kok-Seng Wong and Shih Yin Ooi, "Privacy Protection in Machine Learning: The State-of-the-Art for a Private Decision Tree," Chapter in "Security and Authentication: Perspectives, Management and Challenges", Edited by: Ong Thian Song, Tee Connie, and Shohel Sayeed (Editors), pp. 13-40, Nova Science Publisher, 2018, ISBN: 978-53612-943-4.
 
 <b>Year 2017</b><br>
-Ao Zhou, Shangguang Wang, Robert Ching-Hsien Hsu, Myung Ho Kim, and Kok-Seng Wong, "Network Failure-aware Redundant Virtual Machine Placement in a Cloud Data Center", Concurrency and Computation: Practice and Experience (ISSN: 1532-0626), Vol. 29, No. 24,  2017. 12 .
-
 Ao Zhou, Shangguang Wang, Ching-Hsien Hsu, Myung Ho Kim and Kok-Seng Wong, "Virtual Machine Placement with (m, n)-fault Tolerance in Cloud Data Center", Cluster Computing (ISSN: 1386-7857), 2017. 12 (First Online).  
+
+Ao Zhou, Shangguang Wang, Robert Ching-Hsien Hsu, Myung Ho Kim, and Kok-Seng Wong, "Network Failure-aware Redundant Virtual Machine Placement in a Cloud Data Center", Concurrency and Computation: Practice and Experience (ISSN: 1532-0626), Vol. 29, No. 24,  2017. 12 .
 
 Yan Guo, Shangguang Wang, Kok-Seng Wong, and Myung Ho Kim, "Skyline Service Selection Approach based on QoS Prediction", International Journal of Web and Grid Services (ISSN: 1741-1106), Vol. 13, No. 4, pp. 425-447, 2017. 10.  
 
