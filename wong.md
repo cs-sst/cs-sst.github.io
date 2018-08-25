@@ -14,6 +14,14 @@ Assistant Professor
 
 My research interests are in cryptographic protocols, data privacy, data security and biometric authentication. The main focus of my work is on the conciliation of privacy, security, and privacy awareness. My ultimate research goal is to help users to protect their data privacy in this technology era. However, my research interests are not limited to the above topics/areas. 
 
+
+<b>Research Projects:</b>
+
+Project Title: "Temporal Classification in the Application of Anomaly Based Intrusion Detection Systems", <b>External Collaborator</b>, Aug 2016- July 2019, FRGS, Malaysia (PI: Dr. Ooi Shih Yin, Multimedia University)
+
+Project Title: "Enhancing Recommendations in a Multi-Agent Environment Using Key Trust Components", <b>External Expert</b>, 2015-2016, Sciencefund, Malaysia (PI: Dr. Vimala A/p Balakrishnan, University of Malaya)
+
+
 <b>Recent Publications:</b>
 
 Yee Jian Chew, Shih Yin Ooi, Kok-Seng Wong, Ying Han Pang and Seoung Oun Hwang, "Evaluation of Black-Marker and Bilateral Classification with J48 Decision Tress in Anomaly based Intrusion Detection System", Journal of Intelligent & Fuzzy Systems (ISSN: 1064-1246), 2018. 08 (First Online).  
