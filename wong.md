@@ -12,23 +12,10 @@ permalink: /faculty/wong
 
 Assistant Professor
 
-My research interests lie in the fields of cryptography, secret sharing, security, privacy, and biometrics. The main focus of my work is primarily concerned with the protocol design for the following problems:
-<p>&bull;Secure Multi-party Computation (SMC)
-<br>&bull;Privacy-Preserving Data Mining (PPDM)
-<br>&bull;Private Information Retrieval
-<br>&bull;Secure Recommender System
-<br>&bull;Differential Privacy
-<br>&bull;Self-oriented Privacy (self-enforcing, self-awareness, self-defined)
-<br>&bull;Anonymous Privacy Protection for Data Collection and Data Publishing
-<br>&bull;Secure Authentication (Biometrics Matching)
-<br>&bull;Cloud and Edge Computing 
-<br>&bull;IoT / IoV / IIoT Related </p>
-
-My ultimate research goal is to help users to protect their data privacy in this technology era. However, his research interests are not limited to the above topics/areas. 
+My research interests are in cryptographic protocols, data privacy, data security and biometric authentication. The main focus of my work is on the conciliation of privacy, security, and privacy awareness. My ultimate research goal is to help users to protect their data privacy in this technology era. However, my research interests are not limited to the above topics/areas. 
 
 <b>Recent Publications:</b>
 
-<b>Year 2018</b><br>
 Yee Jian Chew, Shih Yin Ooi, Kok-Seng Wong, Ying Han Pang and Seoung Oun Hwang, "Evaluation of Black-Marker and Bilateral Classification with J48 Decision Tress in Anomaly based Intrusion Detection System", Journal of Intelligent & Fuzzy Systems (ISSN: 1064-1246), 2018. 08 (First Online).  
 
 Kok-Seng Wong and Myung Ho Kim, "Toward a Fair Indictment for Sealed-bid Auction with Self-Enforcing Privacy", The Journal of Supercomputing (ISSN: 0920-8542), Vol. 74, No. 8, pp. 3801-3819, 2018. 08.  
@@ -37,7 +24,6 @@ Kok-Seng Wong and Myung Ho Kim, "Emerging Issues and Challenges for Cloud Data a
 
 Yee Jian Chew, Kok-Seng Wong and Shih Yin Ooi, "Privacy Protection in Machine Learning: The State-of-the-Art for a Private Decision Tree," Chapter in "Security and Authentication: Perspectives, Management and Challenges", Edited by: Ong Thian Song, Tee Connie, and Shohel Sayeed (Editors), pp. 13-40, Nova Science Publisher, 2018, ISBN: 978-53612-943-4.
 
-<b>Year 2017</b><br>
 Ao Zhou, Shangguang Wang, Ching-Hsien Hsu, Myung Ho Kim and Kok-Seng Wong, "Virtual Machine Placement with (m, n)-fault Tolerance in Cloud Data Center", Cluster Computing (ISSN: 1386-7857), 2017. 12 (First Online).  
 
 Ao Zhou, Shangguang Wang, Robert Ching-Hsien Hsu, Myung Ho Kim, and Kok-Seng Wong, "Network Failure-aware Redundant Virtual Machine Placement in a Cloud Data Center", Concurrency and Computation: Practice and Experience (ISSN: 1532-0626), Vol. 29, No. 24,  2017. 12 .
