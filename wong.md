@@ -12,11 +12,19 @@ permalink: /faculty/wong
 
 Assistant Professor
 
-Kok-Seng Wong received his first degree in Computer Science (major in Software Engineering) from the University of Malaya, Malaysia in 2002 and an M.Sc. IT from the Malaysia University of Science and Technology, Malaysia in 2004. He obtained his Ph.D. degree in Computer Science and Engineering from the Soongsil University, South Korea in 2012.
+My research interests lie in the fields of cryptography, secret sharing, security, privacy, and biometrics. The main focus of my work is primarily concerned with the protocol design for the following problems:
+<p>&bull;Secure Multi-party Computation (SMC)
+<br>&bull;Privacy-Preserving Data Mining (PPDM)
+<br>&bull;Private Information Retrieval
+<br>&bull;Secure Recommender System
+<br>&bull;Differential Privacy
+<br>&bull;Self-oriented Privacy (self-enforcing, self-awareness, self-defined)
+<br>&bull;Anonymous Privacy Protection for Data Collection and Data Publishing
+<br>&bull;Secure Authentication (Biometrics Matching)
+<br>&bull;Cloud and Edge Computing 
+<br>&bull;IoT / IoV / IIoT Related </p>
 
-He is currently Assistant Professor in the Department of Computer Science, School of Science and Technology, Nazarbayev University. Prior to joining Nazarbayev University, he has taught computer science subjects (undergraduate and postgraduate) in Malaysian and South Korean universities for the past 15 years.
-
-His research interests lie in the fields of cryptography, secret sharing, security, data privacy, and biometrics. His ultimate research goal is to help users to protect their data privacy in this technology era. However, his research interests are not limited to the above topics/areas. 
+My ultimate research goal is to help users to protect their data privacy in this technology era. However, his research interests are not limited to the above topics/areas. 
 
 <b>Recent Publications:</b>
 
