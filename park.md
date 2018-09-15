@@ -11,9 +11,7 @@ permalink: /faculty/park
 {% include image.html url="/images/ParkJurngyu_150.jpg" align="right" %}
 
 
-Assistant Professor
-
-Prof. Jurn Gyu Park joined as an assistant professor in the Department of Computer Science at Nazarbayev University in Astana, Kazakhstan. He received a Ph.D degree in Computer Science from University of California, Irvine, USA in 2017 and a M.Eng. degree in Computer Engineering from Yonsei University, Korea in 2012 and a B.S degree in Automotive Engineering from Kookmin University, Korea in 2001. 
+Assistant Professor 
 
 <br><b>RESEARCH INTERESTS:</b> Mobile and Embedded Systems
 
