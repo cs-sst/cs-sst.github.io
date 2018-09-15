@@ -42,6 +42,10 @@ Yan Guo, Shangguang Wang, <b>Kok-Seng Wong</b>, and Myung Ho Kim, "Skyline Servi
 
 <b>Kok-Seng Wong</b> and Myung Ho Kim, "Secure Rank Correlation Computation for IoT Applications", International Journal of Services Technology and Management (ISSN: 1460-6720), Vol. 23, No. 1/2 , pp. 40-51, 2017. 2  
 
+Qibo Sun, Shangguang Wang, Ning Lu, <b>Kok-Seng Wong</b>, Myung Ho Kim, "SFADS: A SIP Flooding Attack Detection Scheme with the Internal and External Detection Features in IMS Networks," Journal of Internet Technology  (ISSN: 1607-9264), Vol. 17, No. 7 , pp. 1327-1338, 2016. 12.
+
+<b>Kok-Seng Wong</b> and Myung Ho Kim, "An Enhanced User Authentication Solution for Mobile Payment Systems using Wearables", Security and Communication Networks  (ISSN: 1939-0114), Vol. 9, Issue 17, pp. 4639-4649, 2016. 11. 
+
 <I>Complete list of publications and other information can be found at the following link:</I><br> <a href="https://sites.google.com/view/kswongnu/" target="_blank">https://sites.google.com/view/kswongnu/ </a>
 
 </div>
