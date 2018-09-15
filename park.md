@@ -8,7 +8,7 @@ permalink: /faculty/park
 <div class="header" markdown="1">Jurn Gyu Park [+]
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
-{% include image.html url="/images/park.jpg" align="right" %}
+{% include image.html url="/images/ParkJurngyu_150.jpg" align="right" %}
 
 
 Assistant Professor
