@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <h1>2018</h1>
+Abdiyeva K., Yap K.H., Wang G., Ahuja N., Lukac M., QL-Net: Quantized-by-LookUp CNN, ICARCV 2018, accepted 
+
 Sterling G., Tyler B.,  Renewable Energy Management Using Action Dependent Heuristic Dynamic Programming. 4th IEEE International Smart Cities Conference (ISC2).  2018.	
 
 Tyler B., Yessenbayeva A.,  A Comparison of Flipped Programming Classroom Models – Results by Gender and Major.  IEEE/ASEE Frontiers in Education 2018 Conference. 2018.
