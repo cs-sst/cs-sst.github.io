@@ -18,10 +18,13 @@ Image Retrieval, Feature Matching, Pattern Recognition, Applied Graph Theory, De
 Journal Articles 
 Y. Sirin and M.Fatih Demirci. 2D and 3D Shape Retrieval using Skeleton Filling Rate. Multimedia
 Tools and Applications, Volume 76, Issue 6, pp 7823-7848, 2017.
+
 M. Akimaliev and M. Fatih Demirci. Improving Skeletal Shape Abstraction using Multiple Optimal
 Solutions. Pattern Recognition, Volume 48, Issue 11, pp 3504-3515, 2015.
+
 M. Fatih Demirci. Retrieving 2D Shapes using Caterpillar Decomposition. Machine Vision and
 Applications, Volume 24, Issue 2, pp 435-445, 2013.
+
 A. Shokoufandeh, Y. Keselman, M. Fatih Demirci, D. Macrini, and S. Dickinson. Many-to-many
 Feature Matching in Object Recognition: A Review of Three Approaches. IET Computer Vision,
 Volume 6, Issue 6, 2012.
