@@ -28,22 +28,29 @@ Applications, Volume 24, Issue 2, pp 435-445, 2013.
 A. Shokoufandeh, Y. Keselman, M. Fatih Demirci, D. Macrini, and S. Dickinson. Many-to-many
 Feature Matching in Object Recognition: A Review of Three Approaches. IET Computer Vision,
 Volume 6, Issue 6, 2012.
+
 M. Fatih Demirci. Graph-based Shape Indexing. Machine Vision and Applications, Volume 23,
 Number 3, pp 541-555, 2012.
+
 M. Fatih Demirci, Y. Osmanlioglu, A. Shokoufandeh, S. Dickinson. E cient Many-to-Many Feature
 Matching under the l1 norm. Computer Vision and Image Understanding (CVIU), Volume 115/7,
 August 2011, pp 976-983.
+
 M. Fatih Demirci, Bram Platel, Ali Shokoufandeh, Luc Florack, Sven Dickinson. The Representation
 and Matching of Images using Top Points. Journal of Mathematical Imaging and Vision (JMIV),
 Volume 35/2, pp 103-116, 2009..
+
 M. Fatih Demirci, Ali Shokoufandeh, Sven Dickinson. Skeletal Shape Abstraction from Examples.
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 31, Number 5,
 pp 944-952, 2009.
+
 M. Fatih Demirci, Reinier H. van Leuken, Remco C. Veltkamp. Indexing through Laplacian Spectra.
 Computer Vision and Image Understanding (CVIU), Vol. 110/3, 2008, pp 312-325.
+
 M. Fatih Demirci, Ali Shokoufandeh, Yakov Keselman, Lars Bretzner, Sven Dickinson. Object
 Recognition as Many-to-Many Feature Matching. International Journal of Computer Vision (IJCV),
 Vol. 69, No. 2, August 2006, pp 203-222.
+
 Ali Shokoufandeh, Lars Bretzner, Diego Macrini, M. Fatih Demirci, Clas Jonsson, Sven Dickinson.
 The Representation and Matching of Categorical Shape. Computer Vision and Image Understanding
 (CVIU), Vol. 103, 2006, pp 139-154.
