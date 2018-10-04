@@ -26,7 +26,7 @@ permalink: /faculty/
 
 [Siamac Fazli](/faculty/fazli)
 
-[Muhammad Fatih Demirci](/faculty/demirci)
+[M. Fatih Demirci](/faculty/demirci)
 
 [Kok Seng Wong](/faculty/wong)
 
