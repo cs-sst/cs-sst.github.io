@@ -17,6 +17,7 @@ Research Interests
 Image Retrieval, Feature Matching, Pattern Recognition, Applied Graph Theory, Deep Learning
  
 Journal Articles 
+
 Y. Sirin and M.Fatih Demirci. 2D and 3D Shape Retrieval using Skeleton Filling Rate. Multimedia
 Tools and Applications, Volume 76, Issue 6, pp 7823-7848, 2017.
 
