@@ -13,6 +13,7 @@ permalink: /faculty/demirci
 Dr. Demirci received his Ph.D. from computer science department, Drexel University, USA in 2005. After working as a postdoctoral research scientist on an EU-sponsored research project in Utrecht University, The Netherlands, he joined computer engineering department, TOBB University of Economics and Technology (TOBB ETU), Turkey as a faculty member in 2007. Dr. Demirci worked in TOBB ETU as an assistant/associate professor for 11 years until 2018 and was PI for 3 different research projects supported by TUBITAK (The Scientific and Technological Research Council of Turkey). In the meantime, Dr. Demirci was the executive committee member for Turkish Informatics Olympiads, representing Turkey as a team leader/deputy team leader in International Olympiads in Informatics (IOI) and Balkan Olympiads in Informatics (BOI) between 2011 and 2018. He has taught a number of courses including computer vision, image processing, algorithm analysis, artificial intelligence, programming languages, discrete math, and introduction to programming. Dr. Demirci has been with Nazarbayev University, computer science department since August 2018.
  
 Research Interests
+
 Image Retrieval, Feature Matching, Pattern Recognition, Applied Graph Theory, Deep Learning
  
 Journal Articles 
