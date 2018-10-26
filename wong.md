@@ -17,6 +17,8 @@ My research interests are in cryptographic protocols, data privacy, data securit
 
 <br><b>Research Projects:</b>
 
+Project Title: <i>"A Privacy-Preserving Framework for Machine Learning Based Data Analytics System"</i>, <b>Principle Investigator</b>, Oct 2018- Oct 2019, Social Policy Grant (SPG - Preliminary Research), Nazarbayev University, Kazakhstan
+
 Project Title: <i>"Temporal Classification in the Application of Anomaly Based Intrusion Detection Systems"</i>, <b>External Collaborator</b>, Aug 2016- July 2019, FRGS, Malaysia (PI: Dr. Ooi Shih Yin, Multimedia University)
 
 Project Title: <i>"Enhancing Recommendations in a Multi-Agent Environment Using Key Trust Components"</i>, <b>External Expert</b>, 2015-2016, Sciencefund, Malaysia (PI: Dr. Vimala A/p Balakrishnan, University of Malaya)
