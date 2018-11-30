@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Visited our Alumni Kamila Abdiyeva at NTU"
+title:  "Euromicro/DSD conference in Prague"
 date:   2018-5-27 12:00:00
 categories: fun
 ---
 
-On 18th to 23 November 2018, I traveled to ICARCV 2018 conference in Singapore where Kamila Abdiyeva, our alumni presented our joint paper.  In the framework of the conference I also visited the NTU and her laboratory where she does Deep Learning research with focus on optimization.
+From 29th to 31st August 2018, I traveled to Euromicro/DSD 2018 conference in Prague, Czech Republic. I presented a joint paper entitled "Algorithm Selection for Non-Linearly Separable Algorithms in Computer Vision" written with the cooperation of my students Nadira Izbassarova and Albina Li. 
 
+Congratulations! 
 
-#{% include image.html url="/images/bimarathon-1.jpg" width=600 align="right" %}
-#{% include image.html url="/images/bimarathon-2.jpg" width=600 align="right" %}
 

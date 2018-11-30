@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Euromicro/DSD conference in Prague"
-date:   2018-5-27 12:00:00
+date:   2018-8-29 12:00:00
 categories: fun
 ---
 

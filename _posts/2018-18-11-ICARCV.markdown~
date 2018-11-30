@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Visited our Alumni Kamila Abdiyeva at NTU"
-date:   2018-5-27 12:00:00
+date:   2018-11-18 12:00:00
 categories: fun
 ---
 
 On 18th to 23 November 2018, I traveled to ICARCV 2018 conference in Singapore where Kamila Abdiyeva, our alumni presented our joint paper.  In the framework of the conference I also visited the NTU and her laboratory where she does Deep Learning research with focus on optimization.
 
 
-{% include image.html url="/images/bimarathon-1.jpg" width=600 align="right" %}
-{% include image.html url="/images/bimarathon-2.jpg" width=600 align="right" %}
+#{% include image.html url="/images/bimarathon-1.jpg" width=600 align="right" %}
+#{% include image.html url="/images/bimarathon-2.jpg" width=600 align="right" %}
 
