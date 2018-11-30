@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <h1>2018</h1>
+Adilbekov U., Adilova A., Saginbekov S., Providing Location Privacy Using Fake Sources in Wireless Sensor Networks, The IEEE 12th International Conference on Application of Information and Communication Technologies, 2018.
+
 Abdiyeva K., Yap K.H., Wang G., Ahuja N., Lukac M., QL-Net: Quantized-by-LookUp CNN, ICARCV 2018, accepted 
 
 Sterling G., Tyler B.,  Renewable Energy Management Using Action Dependent Heuristic Dynamic Programming. 4th IEEE International Smart Cities Conference (ISC2).  2018.	
@@ -23,7 +25,7 @@ Cerone A., Towards a Cognitive Architecture for the Formal Analysis of Human Beh
 
 Cerone A., Roveri M. (eds.), SEFM 2017 Collocated Workshops: DataMod, FAACS, MSE, CoSim-CPS, and FOCLASA, Vol. 10729 of Lecture Notes in Computer Science, Springer, 2018.
 
-G. Yestemirova and S. Saginbekov, Efficient Data Aggregation in Wireless Sensor Networks with Multiple Sinks, The 32-nd IEEE International Conference on Advanced Information Networking and Applications (AINA-2018), Accepted 2018.
+G. Yestemirova and S. Saginbekov, Efficient Data Aggregation in Wireless Sensor Networks with Multiple Sinks, The 32-nd IEEE International Conference on Advanced Information Networking and Applications (AINA-2018), 2018.
 
 Lukac M., Abdiyeva K., Kameyama M., CNOT-Measure Quantum Neural Networks, IEEE ISMVL 2018, accepted, 2018
 
