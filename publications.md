@@ -5,11 +5,7 @@ permalink: /publications/
 ---
 
 <h1>2018</h1>
-Zhumagambetov R., Sterling M. Automated Theorem Proving in a Chat Environ-
-ment. 13th International Workshop on User Interfaces for Theorem Provers (UITP), 2018.
-
-Oxford, United Kingdom, to appear in Electronic Proceedings in Theoretical Com-
-puter Science (EPTCS), 2018.
+Zhumagambetov R., Sterling M. Automated Theorem Proving in a Chat Environment. 13th International Workshop on User Interfaces for Theorem Provers (UITP), Oxford, United Kingdom, to appear in Electronic Proceedings in Theoretical Computer Science (EPTCS), 2018.
 
 Adilbekov U., Adilova A., Saginbekov S., Providing Location Privacy Using Fake Sources in Wireless Sensor Networks, The IEEE 12th International Conference on Application of Information and Communication Technologies, 2018.
 
