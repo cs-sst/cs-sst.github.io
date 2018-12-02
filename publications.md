@@ -5,11 +5,17 @@ permalink: /publications/
 ---
 
 <h1>2018</h1>
+Zhumagambetov R., Sterling M. Automated Theorem Proving in a Chat Environ-
+ment. 13th International Workshop on User Interfaces for Theorem Provers (UITP), 2018.
+
+Oxford, United Kingdom, to appear in Electronic Proceedings in Theoretical Com-
+puter Science (EPTCS), 2018.
+
 Adilbekov U., Adilova A., Saginbekov S., Providing Location Privacy Using Fake Sources in Wireless Sensor Networks, The IEEE 12th International Conference on Application of Information and Communication Technologies, 2018.
 
-Abdiyeva K., Yap K.H., Wang G., Ahuja N., Lukac M., QL-Net: Quantized-by-LookUp CNN, ICARCV 2018, accepted 
+Abdiyeva K., Yap K.H., Wang G., Ahuja N., Lukac M., QL-Net: Quantized-by-LookUp CNN, ICARCV 2018, accepted
 
-Sterling G., Tyler B.,  Renewable Energy Management Using Action Dependent Heuristic Dynamic Programming. 4th IEEE International Smart Cities Conference (ISC2).  2018.	
+Sterling G., Tyler B.,  Renewable Energy Management Using Action Dependent Heuristic Dynamic Programming. 4th IEEE International Smart Cities Conference (ISC2).  2018.
 
 Tyler B., Yessenbayeva A.,  A Comparison of Flipped Programming Classroom Models – Results by Gender and Major.  IEEE/ASEE Frontiers in Education 2018 Conference. 2018.
 
