@@ -24,7 +24,21 @@ permalink: /faculty/
 
 [Hans de Nivelle](/faculty/nivelle)
 
-[Dirk Lehmann](/faculty/lehmann)
+[Siamac Fazli](/faculty/fazli)
+
+[M. Fatih Demirci](/faculty/demirci)
+
+[Kok Seng Wong](/faculty/wong)
+
+[Jurn Gyu Park](/faculty/park)
+
+[Dinh-Mao Bui](/faculty/bui)
+
+[Aigerim Yessenbayeva](/faculty/yessen)
+
+[Nazgul Tazhigaliyeva](/faculty/tazhigaliyeva)
+
+[Ainur Rysbekova](/faculty/rysbekova)
 
 
 <style>

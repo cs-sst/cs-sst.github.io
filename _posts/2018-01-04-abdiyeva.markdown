@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Kamila Abdiyeva's Visit"
+date:   2018-04-01 12:00:00
+categories: fun
+---
+
+Our aluni Kamila Abdiyeva, currently a Ph.D. candidate at Nanyang Technological University came for visit aand deliverd several talks. Her main talk was related to the compression of CNNs while the other talks were surveying the usage,, the good and badds fo the CNNs. 
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/IMG_20180406_Kamila.jpg" width=600 align="right" %}
+</div>
+
+
