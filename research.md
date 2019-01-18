@@ -22,6 +22,11 @@ The domains of active research include but are not limited to:
 - Multimedia Database Modeling
 - Fuzzy Logic and Modeling
 - Data Science
+- Sensor Networks
+- BMI
+- Human-Computer Interaction
+- Machine Learning
+- Security
 
 
 Students participating in research and publication hall of fame:

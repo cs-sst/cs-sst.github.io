@@ -23,13 +23,8 @@ The domains of active research include but are not limited to:
 - Fuzzy Logic and Modeling
 - Data Science
 
-Several existing research groups exist in order to group and accelerate research in combined areas:
 
-- Research in Education
-- Mobile and HRI/HCI
+Students participating in research and publication hall of fame:
 
-Student inclusive research programs and possibilities:
-
-- [Research for/with Students](/research/sresearch)
 - [Students' Hall of Science](/research/stu)
 
