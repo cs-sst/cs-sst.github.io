@@ -6,10 +6,18 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
-        {% include image.html url="/images/logo_v3.jpg" align="center" %}
+        <ul class="contact-list">
+          <li><strong>{{ site.title }}</strong></li>
+
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
+        {% include image.html url="/images/logo_v3.jpg" align="center" %}
+      </div>
+
+      <div class="footer-col  footer-col-3">
          <p class="text">
 {{ site.description }} 
       </div>

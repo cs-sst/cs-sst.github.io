@@ -24,4 +24,4 @@ Here students with published results or students who assisted in a work that got
 
 --- 2015 ---
 
-- Abdibayeva Kamila
+- Abdiyeva Kamila
