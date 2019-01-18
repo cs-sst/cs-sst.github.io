@@ -4,7 +4,7 @@ title: Research at CS
 permalink: /research/
 ---
 
-{% include image.html url="/images/csdep.jpg" width=300 align="right" %}
+{% include image.html url="/images/csdep.jpg" width=400 align="right" %}
 
 The research specializations of our faculty cover a wide range of topics within computer science.  
 
