@@ -4,7 +4,7 @@ title: Research at CS
 permalink: /research/
 ---
 
-{% include image.html url="/images/maxres.png" width=300 align="right" %}
+{% include image.html url="/images/csdep.jpg" width=300 align="right" %}
 
 The research specializations of our faculty cover a wide range of topics within computer science.  
 
@@ -22,6 +22,11 @@ The domains of active research include but are not limited to:
 - Multimedia Database Modeling
 - Fuzzy Logic and Modeling
 - Data Science
+- Sensor Networks
+- BMI
+- Human-Computer Interaction
+- Machine Learning
+- Security
 
 
 Students participating in research and publication hall of fame:
