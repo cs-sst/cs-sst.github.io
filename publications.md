@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+<h1>2019</h1>
+Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics, accepted 
+
+Krylov, G. and Lukac, M., Quantum Encoded Quantum Evolutionary Algorithm for the Design of Quantum Circuits, ACM Computational Frontiers, 2019 
 
 <h1>2018</h1>
 Zhumagambetov R., Sterling M. Automated Theorem Proving in a Chat Environment. 13th International Workshop on User Interfaces for Theorem Provers (UITP), Oxford, United Kingdom, to appear in Electronic Proceedings in Theoretical Computer Science (EPTCS), 2018.
