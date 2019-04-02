@@ -8,7 +8,7 @@ permalink: /faculty/tazhigaliyeva
 <div class="header" markdown="1">Nazgul Tazhigaliyeva [+]
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
-{% include image.html url="/images/yourpicture.jpg" align="right" %}
+{% include image.html url="/images/NTazhigaliyeva.jpg" align="right" %}
 
 Nazgul Tazhigaliyeva has obtained her MSc in Artificial Intelligence from the University of Edinburgh in 2017, and BSc in Computer Science from University College Dublin in 2013. Prior to becoming an instructor at the Computer Science Department, Nazgul was a research and laboratory assistant at the Department of Robotics, Nazarbayev University for three years. Before coming to Nazarbayev University Nazgul was an  International Project Engineer Intern in Microsoft Ireland for six months. Her current research interests include agent-based programming, probabilistic reasoning, human-robot interaction, reinforcement learning and machine learning. In particular, Nazgul is interested in Explainable and Human-Friendly Artificial Intelligence i.e. machine learning techniques that can interpret their decisions to human users.
 
