@@ -20,5 +20,9 @@ I am interested in the following research topics:
 1. Another application of constraint programming I am interested in is automated game generation.
 2. Robot Motion Planning. Optimality of Kinodynamic plannig.
 3. Education in Computer Science using flipped classroom approach.
+
+PUBLICATIONS:
+
+Benjamin Tyler and Aigerim Yessenbayeva, “A Comparison of Flipped Programming Classroom Models – Results by Gender and Major”, Frontiers in Education (FIE), 2018, San Jose, CA, USA
 </div>
 </div>
