@@ -4,12 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 <h1>2019</h1>
-Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics, accepted 
+Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics, accepted
 
-Krylov, G. and Lukac, M., Quantum Encoded Quantum Evolutionary Algorithm for the Design of Quantum Circuits, ACM Computational Frontiers, 2019 
+Krylov, G. and Lukac, M., Quantum Encoded Quantum Evolutionary Algorithm for the Design of Quantum Circuits, ACM Computational Frontiers, 2019
 
 <h1>2018</h1>
 Zhumagambetov R., Sterling M. Automated Theorem Proving in a Chat Environment. 13th International Workshop on User Interfaces for Theorem Provers (UITP), Oxford, United Kingdom, to appear in Electronic Proceedings in Theoretical Computer Science (EPTCS), 2018.
+
+Sterling, M. and Suleimenov, A., 2018, December. Patterns of Syntax Theme Customization for Code Editors. In 2018 IEEE 3rd International Conference on Communication and Information Systems (ICCIS) (pp. 173-176). IEEE.
 
 Adilbekov U., Adilova A., Saginbekov S., Providing Location Privacy Using Fake Sources in Wireless Sensor Networks, The IEEE 12th International Conference on Application of Information and Communication Technologies, 2018.
 
