@@ -27,11 +27,14 @@ Further research areas include: cognitive science, process mining and conformanc
 
 <B>Recent Publications:</B>
 
-Cerone A., Zhexenbayeva A., <B>Using Formal Methods to Validate Research Hypotheses: the Duolingo Case Study</B>, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+Cerone A., Zhexenbayeva A., <B>Using Formal Methods to Validate Research Hypotheses: the Duolingo Case Study</B>, <I>Software Technologies: Applications and Foundations (STAF 2018 Collocated Workshops: DataMod)</I>, Toulouse, France, Vol. 11176 of in Lecture Notes in Computer Science, Springer, 2018, pages 163-170.
+[ [Info and Download](https://link.springer.com/chapter/10.1007/978-3-030-04771-9_13) ]
 
-Cerone A., <B>FormalMiner: a Formal Framework for Refinement Mining</B>, DataMod 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+Cerone A., <B>FormalMiner: a Formal Framework for Refinement Mining</B>, <I>Software Technologies: Applications and Foundations (STAF 2018 Collocated Workshops: DataMod), Toulouse, France, Vol. 11176 of Lecture Notes in Computer Science, Springer, 2018, pages 185-200.
+[ [Info and Download](https://link.springer.com/chapter/10.1007/978-3-030-04771-9_15) ]
 
-Cerone A., <B>Towards a Cognitive Architecture for the Formal Analysis of Human Behaviour and Learning</B>, FMIS 2018, Toulouse, France, to appear in Lecture Notes in Computer Science, Springer, 2018.
+Cerone A., <B>Towards a Cognitive Architecture for the Formal Analysis of Human Behaviour and Learning</B>, <I>Software Technologies: Applications and Foundations (STAF 2018 Collocated Workshops: FMIS), Toulouse, France, Vol. 11176 of Lecture Notes in Computer Science, Springer, 2018, pages 216-232.
+[ [Info and Download](https://link.springer.com/chapter/10.1007/978-3-030-04771-9_17) ]
 
 Cerone A., Roveri M. (eds.), <B>SEFM 2017 Collocated Workshops: DataMod, FAACS, MSE, CoSim-CPS, and FOCLASA</B>, Vol. 10729 of Lecture Notes in Computer Science, Springer, 2018.
 [ [Info and Download](https://link.springer.com/book/10.1007%2F978-3-319-74781-1) ]
