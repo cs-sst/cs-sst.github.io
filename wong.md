@@ -26,7 +26,15 @@ Project Title: <i>"Enhancing Recommendations in a Multi-Agent Environment Using 
 
 <br><b>Recent Publications:</b>
 
-Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b>, Ying Han Pang and Seoung Oun Hwang, "Evaluation of Black-Marker and Bilateral Classification with J48 Decision Tress in Anomaly based Intrusion Detection System", Journal of Intelligent & Fuzzy Systems (ISSN: 1064-1246), 2018. 08 (First Online).  
+<b>Kok-Seng Wong</b> and Myung Ho Kim, "A Privacy-Preserving Coalition Loyalty Program," in the 16th IEEE International Conference on Advanced and Trusted Computing (ATC 2019), Leicester, London, August 2019 (Accepted).
+
+<b>Kok-Seng Wong</b>,  Anuar Maratkhan, Tu Nguyen, and Fatih M Demirci,  "Towards Self-Enforcing Privacy Protection for Surveillance System," (Poster-Extended Abstract) in CV-COPS 2019 (In conjunction with the 2019 IEEE Conference on Computer Vision and Pattern Recognition), Long Beach, CA, 2019 (Accepted).
+
+Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b> and Ying Han Pang, "Decision Tree with Sensitive Pruning in Network-based Intrusion Detection System," in International Conference on Computational Science and Technology (ICCST), Kota Kinabalu, Malaysia, 2019 (Accepted).
+
+Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b> and Ying Han Pang, "Privacy Preserving of IP Address through Truncation Method in Network-based Intrusion Detection System," in International Conference on Software and Computer Applications (ICSCA), Penang, Malaysia, 2019 (Accepted).
+
+Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b>, Ying Han Pang and Seoung Oun Hwang, "Evaluation of Black-Marker and Bilateral Classification with J48 Decision Tress in Anomaly based Intrusion Detection System", Journal of Intelligent & Fuzzy Systems (ISSN: 1064-1246), Vol. 35, No. 6, pp. 5927-5937, 2018. 12.  
 
 <b>Kok-Seng Wong</b> and Myung Ho Kim, "Toward a Fair Indictment for Sealed-bid Auction with Self-Enforcing Privacy", The Journal of Supercomputing (ISSN: 0920-8542), Vol. 74, No. 8, pp. 3801-3819, 2018. 08.  
 
