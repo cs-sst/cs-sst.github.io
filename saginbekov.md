@@ -27,9 +27,5 @@ Due to limited resources such as memory and energy, harsh environmental conditio
 These faults can be classified as node failures and hardware faults, communication faults, and software faults. Some of these faults may cause non-deterministic bit-flips in the main memory and lead to memory corruptions. <br/>
 Given this, the existing protocols that do not consider these faults may not work appropriately, if faults occur. In this research, we want to add fault tolerance 'wrapper' so that it makes protocols tolerant to the faults.<br/>
 
-3) Remote monitoring and control applications<br/>
-
-This is more about developing applications that use sensors, wireless devices such as sensors nodes, GPS, GPRS, WiF, etc.<br/>
-
 </div>
 </div>
