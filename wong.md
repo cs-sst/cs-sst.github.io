@@ -32,7 +32,7 @@ Project Title: <i>"Enhancing Recommendations in a Multi-Agent Environment Using 
 
 Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b> and Ying Han Pang, "Decision Tree with Sensitive Pruning in Network-based Intrusion Detection System," in International Conference on Computational Science and Technology (ICCST), Kota Kinabalu, Malaysia, 2019 (Accepted).
 
-Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b> and Ying Han Pang, "Privacy Preserving of IP Address through Truncation Method in Network-based Intrusion Detection System," in International Conference on Software and Computer Applications (ICSCA), Penang, Malaysia, 2019 (Accepted).
+Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b> and Ying Han Pang, "Privacy Preserving of IP Address through Truncation Method in Network-based Intrusion Detection System," in International Conference on Software and Computer Applications (ICSCA), Penang, Malaysia, pp. 569-573, 2019.
 
 Yee Jian Chew, Shih Yin Ooi, <b>Kok-Seng Wong</b>, Ying Han Pang and Seoung Oun Hwang, "Evaluation of Black-Marker and Bilateral Classification with J48 Decision Tress in Anomaly based Intrusion Detection System", Journal of Intelligent & Fuzzy Systems (ISSN: 1064-1246), Vol. 35, No. 6, pp. 5927-5937, 2018. 12.  
 
