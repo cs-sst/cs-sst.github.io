@@ -12,17 +12,9 @@ permalink: /faculty/wong
 
 Assistant Professor
 
-My research interests are in cryptographic protocols, data privacy, data security and biometric authentication. The main focus of my work is on the conciliation of privacy, security, and privacy awareness. My ultimate research goal is to help users to protect their data privacy in this technology era. However, my research interests are not limited to the above topics/areas. 
+My research philosophy places a strong emphasis on secure data sharing solutions for data privacy problems. To me, research is often a bridge to an ambitious goal—a bridge that needs to be crossed in steps. I tend to work on projects that try to bring cutting-edge research ideas to mainstream practice (e.g., how to maintain data utility while protecting the data privacy). Various practical issues can (and often do) expose inadequacies in conventional research ideas. But these inadequacies usually provide new research opportunities, and solving such problems usually has the potential for significant impact.
 
-
-<br><b>Research Projects:</b>
-
-Project Title: <i>"A Privacy-Preserving Framework for Machine Learning Based Data Analytics System"</i>, <b>Principle Investigator</b>, Oct 2018- Oct 2019, Social Policy Grant (SPG - Preliminary Research), Nazarbayev University, Kazakhstan
-
-Project Title: <i>"Temporal Classification in the Application of Anomaly Based Intrusion Detection Systems"</i>, <b>External Collaborator</b>, Aug 2016- July 2019, FRGS, Malaysia (PI: Dr. Ooi Shih Yin, Multimedia University)
-
-Project Title: <i>"Enhancing Recommendations in a Multi-Agent Environment Using Key Trust Components"</i>, <b>External Expert</b>, 2015-2016, Sciencefund, Malaysia (PI: Dr. Vimala A/p Balakrishnan, University of Malaya)
-
+In general, my research interests are in cryptographic protocols, data privacy, data security and biometric authentication. The main focus of my work is on the conciliation of privacy, security, and privacy awareness. My ultimate research goal is to help users to protect their data privacy in this technology era. However, my research interests are not limited to the above topics/areas. 
 
 <br><b>Recent Publications:</b>
 
