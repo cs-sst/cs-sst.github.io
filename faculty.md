@@ -34,6 +34,14 @@ permalink: /faculty/
 
 [Dinh-Mao Bui](/faculty/bui)
 
+[Ali Kemal Sinop](/faculty/sinop)
+
+[Mino Lee](/faculty/lee)
+
+[Meiram Murzabulatov](/faculty/murzabulatov)
+
+[Selim Temizer](/faculty/temizer)
+
 [Aigerim Yessenbayeva](/faculty/yessen)
 
 [Nazgul Tazhigaliyeva](/faculty/tazhigaliyeva)
