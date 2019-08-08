@@ -6,6 +6,10 @@ permalink: /publications/
 <h1>2019</h1>
 Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics, accepted
 
+Lukac, M. and Moraga, C. and Kameyama, M. Properties of Bent Functions in the Truth Domain, Information Digital Technologies, 2019, (IEEE Excellent Paper on Reliability Award)
+
+Lukac, M. and Krylov G., Geometric Refactoring of Quantum and Reversible Circuits: Quantum Layout, Reed-Muller Workshop, 2019 
+
 Krylov, G. and Lukac, M., Quantum Encoded Quantum Evolutionary Algorithm for the Design of Quantum Circuits, ACM Computational Frontiers, 2019
 
 <h1>2018</h1>
