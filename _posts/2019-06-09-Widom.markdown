@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Visit from prof. Jennifer Widom"
+date:   2019-9-6 12:00:00
+categories: fun
+---
+
+We're lucky to have Jennifer Widom, Dean of Engineering and CS Professor at Stanford, giving 4.5 days of lectures and workshops this week!
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/widom1.jpg" width=600 align="right" %}
+</div>
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/widom2.jpg" width=600 align="right" %}
+</div>
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/widom3.jpg" width=600 align="right" %}
+</div>
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/widom4.jpg" width=600 align="right" %}
+</div>
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/widom5.jpg" width=600 align="right" %}
+</div>
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/widom6.jpg" width=600 align="right" %}
+</div>
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/widom7.jpg" width=600 align="right" %}
+</div>
+
+
+
+
+
+
