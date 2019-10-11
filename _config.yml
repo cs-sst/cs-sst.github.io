@@ -13,7 +13,7 @@ markdown: kramdown
 
 # Other options
 permalink: pretty
-job.title: "Assistant Professor"
+job.title: "Associate Professor"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff

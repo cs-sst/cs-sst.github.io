@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Visit from prof. Gerhard Dueck"
+date:   2019-21-9 12:00:00
+categories: fun
+---
+
+Prof. Gerhard Dueck came for a week long visit during which he contributed to common research in quantum computing. In additiona he delivered two talks. 
+
+The first one was given on September 24th, and was entitled: OMR: Agnostic Runtime Programming Support and with abstract:
+
+“Eclipse OMR leverages runtime investment across many programming languages. It serves to ensure community support in existing and new languages for IBM hardware platforms, and to promote both a commercial and open source ecosystem around consumable hardware innovations.” The support includes Just-in-time (JIT) compilation, ahead-of-time compilation (AOT), and garbage collection (GC). The concepts will be explained in the context of OMR.
+
+Garbage collection is an important process in programming languages that mange the heap automatically. Objects that are dynamically allocated on the heap must be freed once they are no longer accessible. The metrics for evaluating garbage collections methods vary depending on the application. Traditionally, throughput has been the most important feature. Clearly, higher throughput leads to faster execution time of the program. However, in an interactive program the length of the pause times, caused by the garbage collection, may be more important than throughput. The advances in multicore processors have fuelled the development of parallel and concurrent garbage collection algorithms. In this talk, a region based memory allocation scheme, developed by IBM, is discussed. Instead of doing global collections, only regions with high a density of dead objects are processed. Global collections are only used as a last resort. It has been shown that under certain conditions such a scheme can reduce the global pauses caused garbage collections. 
+
+
+The second talk was on September 27th and was on the topc of Quantum computing. Its title was: Efficient Realizations of CNOT gates in IBM's Quantum Computers. The abstract of the talk is below
+
+IBM’s quantum computers implement gates from Clifford+T gate library. All single qubit gates are implemented, but only a subset of the possible CNOT are provided. It is well known that the functionally of the missing gates can be achieved by a sequence of gates. The sequence of gates is based on SWAP gates. Up to seven elementary gates are required to implement a SWAP gate. In this talk we show how the same effect can be achieved with fewer gates. To show the potential of the proposed transformations, an example is presented where a reduction of 44% in the gate count and a 26% reduction in the number of levels for IBM’s QX5 computer is achieved. An algorithm that is considered state of the art, is used for the comparison.
+
+Additionally, a methodology to map Toffoli and NCV circuits such that they are compliant with a given IBM architecture, will be presented. The approach to accomplish this, is to find a set of low cost mappings for NCV and Toffoli circuits targeting IBM's architecture constraints. With this approach, the number of CNOTs that need to be changed will be reduced, resulting in smaller circuits. To evaluate the proposed approach, Toffoli circuits are mapped to Clifford+T and then realized on IBM's QX4 architecture. The benchmarks are compared with Toffoli circuits mapped without the methodology and implemented on IBM QX4 using two different approaches. The results show that the proposed approach results in circuits with up to 67% fewer gates compared with Qiskit and with up to 50% fewer gates compared to a Clifford+T mapping algorithm.
+
+ <div class="content" markdown="1" align="right">
+{% include image.html url="/images/dueck1.jpg" width=600 align="right" %}
+</div>
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/dueck2.jpg" width=600 align="right" %}
+</div>
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/dueck3.jpg" width=600 align="right" %}
+</div>
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/dueck4.jpg" width=600 align="right" %}
+</div>
+
