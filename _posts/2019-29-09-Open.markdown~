@@ -8,13 +8,21 @@ categories: fun
 On September 29th Nazarbayev University was conducting the Open House Day. For that occasion several faculty had demonstrations (Demirci, Lukac) and I delivered a lecture on Quantum Computing for open public. It was very exciting event. 
 
 <div class="content" markdown="1" align="right">
-{% include image.html url="/images/widom6.jpg" width=600 align="right" %}
+{% include image.html url="/images/openhouse1.jpg" width=600 align="right" %}
 </div>
 
 <div class="content" markdown="1" align="right">
-{% include image.html url="/images/widom7.jpg" width=600 align="right" %}
+{% include image.html url="/images/openhouse2.jpg" width=600 align="right" %}
 </div>
 
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/openhouse3.jpg" width=600 align="right" %}
+</div>
+
+<div class="content" markdown="1" align="right">
+{% include image.html url="/images/openhouse4.jpg" width=600 align="right" %}
+</div>
 
 
 
