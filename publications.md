@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 <h1>2019</h1>
+Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics,Vol. 32, No.3, 2019,  pp: 417-438, 
 Lukac, M., Pruned Single Class Deep Convolutional Detectors, The 6th International Symposium on Brainware LSI, Research Institute of Electrical Communication, Tohoku University, Sendai, Japan 
 Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics, accepted
 
