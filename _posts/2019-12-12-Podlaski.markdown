@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Pfor. Podlaski Talk on Reversible Computing"
+title:  "Prof. Podlaski Talk on Reversible Computing"
 date:   2019-12-12 12:00:00
 categories: fun
 ---
 
-On December 12, prof. Podlaski gave a very exciting talk about the spectral design of Reversible and Quantum Circuits. It was very exciting event and we hope for some exciting cooperative researach. 
+On December 12, prof. Podlaski gave a very exciting talk about the spectral design of Reversible and Quantum Circuits. It was very exciting event and we hope for some exciting cooperative research. 
 
 
 <div class="content" markdown="1" align="right">
