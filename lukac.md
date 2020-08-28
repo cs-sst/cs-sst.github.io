@@ -25,7 +25,7 @@ Projects available for research in various forms:
 - Variable Sifting in Reversible and Quantum Circuits (with extensions into minimization of Boolean Decision Diagrams)
 - Quantum Operator Forms for exact circuits minimization
 - Clifford-T synthesis of quantum circuits
-- Elementary particle sumulator on GPGPU
+- Elementary particle simulator on GPGPU
 - Evolutionary and Algorithmic Synthesis and Optimization  of Quantum Circuits
 
 - CNNs for Autonomous software Selection Platform

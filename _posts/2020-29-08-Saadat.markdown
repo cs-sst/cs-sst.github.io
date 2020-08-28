@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Open House Day at NU"
+date:   2020-8-27 12:00:00
+categories: fun
+---
+
+On August 29th Saadat Nursultan will present our work on the synthesis of quantum computer circuits on IBM Q architectures at th 2020 Euromicro Digital Systems Design conference
+
+
+
+
+
+
